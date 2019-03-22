@@ -1,6 +1,16 @@
 [
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 56740479201,
+   "c_digo_municipio": 5674,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 3,
+   "direcci_n": "AV CARVAJAL # 31-36",
+   "direcci_n_correo_electr_nico": "snvihs01@edatel.net.co",
+   "n_mero_nit": 890983738,
+   "n_mero_tel_fono": 5748544100,
+   "nombre_municipio": "San Vicente",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "E S E HOSPITAL MUNICIPIO DE SAN VICENTE",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -8,10 +18,20 @@
          19.59498891
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E S E HOSPITAL MUNICIPIO DE SAN VICENTE"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 58190612301,
+   "c_digo_municipio": 5819,
+   "c_digo_regi_n": 5,
+   "d_gito_verificaci_n_nit": 7,
+   "direcci_n": "CL CORDOBA #  9-07",
+   "direcci_n_correo_electr_nico": "hospitoledo@edatel.net.co",
+   "n_mero_nit": 800139704,
+   "n_mero_tel_fono": 5748619173,
+   "nombre_municipio": "Toledo",
+   "nombre_regi_n": "Norte",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL PEDRO CLAVER AGUIRRE Y",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -19,10 +39,20 @@
          19.59785025
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL PEDRO CLAVER AGUIRRE"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 50590550601,
+   "c_digo_municipio": 5059,
+   "c_digo_regi_n": 6,
+   "d_gito_verificaci_n_nit": 0,
+   "direcci_n": "CL 11 # 6-69",
+   "direcci_n_correo_electr_nico": "armehs01@edatel.netco",
+   "n_mero_nit": 890982153,
+   "n_mero_tel_fono": 5748559099,
+   "nombre_municipio": "Armenia",
+   "nombre_regi_n": "Occidente",
+   "nombre_sede": "EMPRES SOCIAL DEL ESTADO HOSPITAL SAN MARTIN DE PORRES",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -30,10 +60,20 @@
          19.59763326
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRES SOCIAL DEL ESTADO HOSPITAL SAN MARTIN DE PORRES"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 52640230901,
+   "c_digo_municipio": 5264,
+   "c_digo_regi_n": 5,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "KR 13 # 10 - 36",
+   "direcci_n_correo_electr_nico": "entrhso1@edatel.net.co",
+   "n_mero_nit": 890984779,
+   "n_mero_tel_fono": 5748670051,
+   "nombre_municipio": "Entrerrios",
+   "nombre_regi_n": "Norte",
+   "nombre_sede": "ESE HOSPITAL PRESBITERO EMIGDIO PALACIO",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -41,10 +81,20 @@
          19.59605272
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "ESE HOSPITAL PRESBITERO EMIGDIO PALACIO"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 53900509001,
+   "c_digo_municipio": 5390,
+   "c_digo_regi_n": 8,
+   "d_gito_verificaci_n_nit": 3,
+   "direcci_n": "KR 30 # 30A - 45",
+   "direcci_n_correo_electr_nico": "pinths01@edatel.net.co",
+   "n_mero_nit": 811013792,
+   "n_mero_tel_fono": 5748454063,
+   "nombre_municipio": "La Pintada",
+   "nombre_regi_n": "Suroeste",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL ANTONIO ROLDAN BETANCUR",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -52,10 +102,20 @@
          19.59464905
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL ANTONIO ROLDAN BETANCUR"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 56520601601,
+   "c_digo_municipio": 5652,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 9,
+   "direcci_n": "KR 9 #10-09",
+   "direcci_n_correo_electr_nico": "sfrahs01@edatel.net.co",
+   "n_mero_nit": 800133887,
+   "n_mero_tel_fono": 5748323027,
+   "nombre_municipio": "San Francisco",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN FRANCISCO DE ASIS",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -63,10 +123,20 @@
          19.59559252
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN FRANCISCO DE ASIS"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 57920458701,
+   "c_digo_municipio": 5792,
+   "c_digo_regi_n": 8,
+   "d_gito_verificaci_n_nit": 4,
+   "direcci_n": "KR 18 # 21 - 02",
+   "direcci_n_correo_electr_nico": "tarshs01@edatel.net.co",
+   "n_mero_nit": 890982182,
+   "n_mero_tel_fono": 5748458606,
+   "nombre_municipio": "Tarso",
+   "nombre_regi_n": "Suroeste",
+   "nombre_sede": "E.S.E SAN PABLO",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -74,10 +144,20 @@
          19.59516895
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN PABLO"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 50380153801,
+   "c_digo_municipio": 5038,
+   "c_digo_regi_n": 5,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "Kr 10 # 16-1",
+   "direcci_n_correo_electr_nico": "ANGOHS01@EDATEL.NET.CO",
+   "n_mero_nit": 890982183,
+   "n_mero_tel_fono": 5748645099,
+   "nombre_municipio": "Angostura",
+   "nombre_regi_n": "Norte",
+   "nombre_sede": "E.S.E. EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN RAFAEL DE ANGOSTURA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -85,10 +165,20 @@
          19.59558178
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN RAFAEL DE  ANGOSTURA"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 58540457701,
+   "c_digo_municipio": 5854,
+   "c_digo_regi_n": 5,
+   "d_gito_verificaci_n_nit": 7,
+   "direcci_n": "KR 8 # 7 - 18 ",
+   "direcci_n_correo_electr_nico": "valdhs01@edatel.net.co",
+   "n_mero_nit": 891982129,
+   "n_mero_tel_fono": 5748360218,
+   "nombre_municipio": "Valdivia",
+   "nombre_regi_n": "Norte",
+   "nombre_sede": "E.S.E HOSPITAL SAN JUAN DE DIOS DE VALDIVIA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -96,10 +186,20 @@
          19.60393095
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN JAUN DE DIOS VALDIVIA"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 52820217101,
+   "c_digo_municipio": 5282,
+   "c_digo_regi_n": 8,
+   "d_gito_verificaci_n_nit": 8,
+   "direcci_n": "CL 69 # 50-220 VEREDA EL EDEN",
+   "direcci_n_correo_electr_nico": "fredhs01@edatel.net.co",
+   "n_mero_nit": 890980181,
+   "n_mero_tel_fono": 5748401101,
+   "nombre_municipio": "Fredonia",
+   "nombre_regi_n": "Suroeste",
+   "nombre_sede": "E.S.E. HOSPITAL SANTA LUCIA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -107,10 +207,20 @@
          19.60440282
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL DE SANTA LUCIA"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 53470219201,
+   "c_digo_municipio": 5347,
+   "c_digo_regi_n": 6,
+   "d_gito_verificaci_n_nit": 2,
+   "direcci_n": "CL 22 B No 20-21",
+   "direcci_n_correo_electr_nico": "helihs01@edatel.net.co",
+   "n_mero_nit": 890981074,
+   "n_mero_tel_fono": 5748549897,
+   "nombre_municipio": "Heliconia",
+   "nombre_regi_n": "Occidente",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN RAFAEL",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -118,10 +228,20 @@
          19.59391657
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN RAFAEL"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 55010556901,
+   "c_digo_municipio": 5501,
+   "c_digo_regi_n": 6,
+   "d_gito_verificaci_n_nit": 5,
+   "direcci_n": "KR 10 # 10 - 34",
+   "direcci_n_correo_electr_nico": "olayhs01@edatel.net.co",
+   "n_mero_nit": 800202398,
+   "n_mero_tel_fono": 5748551038,
+   "nombre_municipio": "Olaya",
+   "nombre_regi_n": "Occidente",
+   "nombre_sede": "ESE HOSPITAL SAN MIGUEL",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -129,10 +249,20 @@
          19.59383823
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "ESE HOSPITAL SAN MIGUEL"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 57360612501,
+   "c_digo_municipio": 5736,
+   "c_digo_regi_n": 4,
+   "d_gito_verificaci_n_nit": 8,
+   "direcci_n": "KR 44 # 47B - 65",
+   "direcci_n_correo_electr_nico": "segohs01@edatel.net.co",
+   "n_mero_nit": 800080586,
+   "n_mero_tel_fono": 5748318773,
+   "nombre_municipio": "Segovia",
+   "nombre_regi_n": "Nordeste",
+   "nombre_sede": "E.S.E. HOSPITAL SAN JUAN DE DIOS",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -140,10 +270,20 @@
          19.59373337
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN JUAN DE DIOS"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 58420643101,
+   "c_digo_municipio": 5842,
+   "c_digo_regi_n": 6,
+   "d_gito_verificaci_n_nit": 5,
+   "direcci_n": "CL 20  # 22 170  BRR EL TOTUMO",
+   "direcci_n_correo_electr_nico": "uramhs01@edatel.net.co",
+   "n_mero_nit": 800065395,
+   "n_mero_tel_fono": 5748574048,
+   "nombre_municipio": "Uramita",
+   "nombre_regi_n": "Occidente",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL TOBIAS PUERTA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -151,10 +291,20 @@
          19.36185196
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL TOBIAS PUERTA"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 50310209101,
+   "c_digo_municipio": 5031,
+   "c_digo_regi_n": 4,
+   "d_gito_verificaci_n_nit": 8,
+   "direcci_n": "CL 23 # 23 - 40",
+   "direcci_n_correo_electr_nico": "amalhs01@edatel.net.co",
+   "n_mero_nit": 890982101,
+   "n_mero_tel_fono": 5748301803,
+   "nombre_municipio": "Amalfi",
+   "nombre_regi_n": "Nordeste",
+   "nombre_sede": "E.S.E HOSPITAL EL CARMEN",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -162,10 +312,20 @@
          19.36055411
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E HOSPITAL EL CARMEN"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 53130510901,
+   "c_digo_municipio": 5313,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "CL 21 # 25-02",
+   "direcci_n_correo_electr_nico": "granhs01@edatel.net.co",
+   "n_mero_nit": 890981182,
+   "n_mero_tel_fono": 5748320742,
+   "nombre_municipio": "Granada",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "ESE HOSPITAL PADRE CLEMENTE GIRALDO",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -173,10 +333,20 @@
          19.3597959
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "ESE HOSPITAL PADRE CLEMENTE GIRALDO"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 55850472501,
+   "c_digo_municipio": 5585,
+   "c_digo_regi_n": 3,
+   "d_gito_verificaci_n_nit": 5,
+   "direcci_n": "KR 5 # 45-103",
+   "direcci_n_correo_electr_nico": "pnarhs01@edatel.net.co",
+   "n_mero_nit": 890985810,
+   "n_mero_tel_fono": 5748347033,
+   "nombre_municipio": "Puerto Nare",
+   "nombre_regi_n": "Magdalena Medio",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL OCTAVIO OLIVARES",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -184,10 +354,20 @@
          19.35889534
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL OCTAVIO OLIVARES"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 55790607001,
+   "c_digo_municipio": 5579,
+   "c_digo_regi_n": 3,
+   "d_gito_verificaci_n_nit": 7,
+   "direcci_n": "KR 7 # 48-03",
+   "direcci_n_correo_electr_nico": "pberhs01@edatel.net.co",
+   "n_mero_nit": 890980063,
+   "n_mero_tel_fono": 5748332490,
+   "nombre_municipio": "Puerto Berrio",
+   "nombre_regi_n": "Magdalena Medio",
+   "nombre_sede": "E.S.E HOSPITAL LA CRUZ",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -195,10 +375,20 @@
          19.35643657
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL LA CRUZ"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 58090434901,
+   "c_digo_municipio": 5809,
+   "c_digo_regi_n": 8,
+   "d_gito_verificaci_n_nit": 6,
+   "direcci_n": "Kr Bolivar 18-55",
+   "direcci_n_correo_electr_nico": "titihs01@edatel.net.co",
+   "n_mero_nit": 890980346,
+   "n_mero_tel_fono": 5748482626,
+   "nombre_municipio": "Titiribí",
+   "nombre_regi_n": "Suroeste",
+   "nombre_sede": "ESE HOSPITAL SAN JUAN DE DIOS",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -206,10 +396,20 @@
          19.3454746
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "ESE HOSPITAL SAN JUAN DE DIOS"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 52340231401,
+   "c_digo_municipio": 5234,
+   "c_digo_regi_n": 6,
+   "d_gito_verificaci_n_nit": 6,
+   "direcci_n": "KR URIBE URIBE # 622",
+   "direcci_n_correo_electr_nico": "dabehs01@edatel.net.co",
+   "n_mero_nit": 890984670,
+   "n_mero_tel_fono": 5748590045,
+   "nombre_municipio": "Dabeiba",
+   "nombre_regi_n": "Occidente",
+   "nombre_sede": "E.S.E HOSPITAL NUESTRA SEÑORA DEL PERPETUO SOCORRO",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -217,10 +417,20 @@
          19.3838128
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL NUESTRA SEÑORA DEL PERPETUO SOCORRO"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 50860550701,
+   "c_digo_municipio": 5086,
+   "c_digo_regi_n": 5,
+   "d_gito_verificaci_n_nit": 0,
+   "direcci_n": "KR 19# 19 93",
+   "direcci_n_correo_electr_nico": "belmhs01@edatel.net.co",
+   "n_mero_nit": 890982065,
+   "n_mero_tel_fono": 5748674147,
+   "nombre_municipio": "Belmira",
+   "nombre_regi_n": "Norte",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL NUESTRA SEÑORA DEL ROSARIO",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -228,10 +438,20 @@
          19.37264234
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL NUESTRA SEÑORA DEL ROSARIO"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 50040588001,
+   "c_digo_municipio": 5004,
+   "c_digo_regi_n": 6,
+   "d_gito_verificaci_n_nit": 9,
+   "direcci_n": "CL 9A # 12-59",
+   "direcci_n_correo_electr_nico": "ese@abriaqui-antioquia.gov.co",
+   "n_mero_nit": 811032722,
+   "n_mero_tel_fono": 3104323014,
+   "nombre_municipio": "Abriaquí",
+   "nombre_regi_n": "Occidente",
+   "nombre_sede": "ESE HOSPITAL NUEVO HORIZONTE",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -239,10 +459,20 @@
          19.37154069
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "ESE HOSPITAL NUEVO HORIZONTE"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 56790458201,
+   "c_digo_municipio": 5679,
+   "c_digo_regi_n": 8,
+   "d_gito_verificaci_n_nit": 3,
+   "direcci_n": "KR 50 # 45 90 ",
+   "direcci_n_correo_electr_nico": "stbahs01@hotmail.com",
+   "n_mero_nit": 890905198,
+   "n_mero_tel_fono": 5748463131,
+   "nombre_municipio": "Santa Bárbara",
+   "nombre_regi_n": "Suroeste",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SANTAMARIA ",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -250,10 +480,20 @@
          19.35630276
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SANTAMARIA "
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 50400326101,
+   "c_digo_municipio": 5040,
+   "c_digo_regi_n": 4,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "CL ZEA (CALLE 30 CON CARRERA 29)",
+   "direcci_n_correo_electr_nico": "anorhso1@edatel.net.co",
+   "n_mero_nit": 890982138,
+   "n_mero_tel_fono": 5748350803,
+   "nombre_municipio": "Anorí",
+   "nombre_regi_n": "Nordeste",
+   "nombre_sede": "ESE HOSPITAL SAN JUAN DE DIOS DE ANORI",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -261,10 +501,20 @@
          19.35168214
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "ESE HOSPITAL SAN JUAN DE DIOS DE ANORI"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 50010217801,
+   "c_digo_municipio": 5001,
+   "c_digo_regi_n": 1,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "KR 50 # 44 - 27  ED SACATIN",
+   "direcci_n_correo_electr_nico": "gerentegeneral@metrosalud.gov.co",
+   "n_mero_nit": 800058016,
+   "n_mero_tel_fono": 5745117505,
+   "nombre_municipio": "Medellín",
+   "nombre_regi_n": "Valle de Aburrá",
+   "nombre_sede": "ESE METROSALUD ",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -272,10 +522,20 @@
          19.35789324
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO METROSALUD"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 52660969601,
+   "c_digo_municipio": 5266,
+   "c_digo_regi_n": 1,
+   "d_gito_verificaci_n_nit": 3,
+   "direcci_n": "DG 33 # 35 C SUR 31",
+   "direcci_n_correo_electr_nico": "envisalud@envigado.gov.co",
+   "n_mero_nit": 900125759,
+   "n_mero_tel_fono": 5743319400,
+   "nombre_municipio": "Envigado",
+   "nombre_regi_n": "Valle de Aburrá",
+   "nombre_sede": "CLINICA SANTA GERTRUDIS",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -283,10 +543,20 @@
          19.3671748
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. SANTA GERTRUDIS ENVIGADO"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 55410197901,
+   "c_digo_municipio": 5541,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 9,
+   "direcci_n": "TV 7A # 11-84",
+   "direcci_n_correo_electr_nico": "penohs01@edatel.net.co",
+   "n_mero_nit": 890980486,
+   "n_mero_tel_fono": 5748515750,
+   "nombre_municipio": "El Peñol",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "E.S.E HOSPITAL SAN JUAN DE DIOS",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -294,10 +564,20 @@
          19.37289632
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN JUAN DE DIOS"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 52400374401,
+   "c_digo_municipio": 5240,
+   "c_digo_regi_n": 6,
+   "d_gito_verificaci_n_nit": 2,
+   "direcci_n": "BRR VEREDA FATIMA",
+   "direcci_n_correo_electr_nico": "ebejhs01@edatel.net.co",
+   "n_mero_nit": 890982370,
+   "n_mero_tel_fono": 5748562681,
+   "nombre_municipio": "Ebéjico",
+   "nombre_regi_n": "Occidente",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN RAFAEL",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -305,10 +585,20 @@
          19.37232446
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO  HOSPITAL SAN RAFAEL"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 50360510801,
+   "c_digo_municipio": 5036,
+   "c_digo_regi_n": 8,
+   "d_gito_verificaci_n_nit": 0,
+   "direcci_n": "CL 8 # 7-108",
+   "direcci_n_correo_electr_nico": "eseangel@edatel.net.co",
+   "n_mero_nit": 890980959,
+   "n_mero_tel_fono": 5748421146,
+   "nombre_municipio": "Angelópolis",
+   "nombre_regi_n": "Suroeste",
+   "nombre_sede": "E.S.E HOSPITAL LA MISERICORDIA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -316,10 +606,20 @@
          19.36643718
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL LA MISERICORDIA"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 57890457901,
+   "c_digo_municipio": 5789,
+   "c_digo_regi_n": 8,
+   "d_gito_verificaci_n_nit": 3,
+   "direcci_n": "KR 10 # 13 - 52",
+   "direcci_n_correo_electr_nico": "tamehs01@edatel.net.co",
+   "n_mero_nit": 890980855,
+   "n_mero_tel_fono": 5748494802,
+   "nombre_municipio": "Támesis",
+   "nombre_regi_n": "Suroeste",
+   "nombre_sede": "E.S.E HOSPITAL SAN JUAN DE DIOS ",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -327,10 +627,20 @@
          19.3597105
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN JUAN DE DIOS "
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 52500213301,
+   "c_digo_municipio": 5250,
+   "c_digo_regi_n": 2,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "CL 50 # 46D-37",
+   "direcci_n_correo_electr_nico": "bagrhs01@edatel.net.co",
+   "n_mero_nit": 800138311,
+   "n_mero_tel_fono": 5748372381,
+   "nombre_municipio": "El bagre",
+   "nombre_regi_n": "Bajo Cauca",
+   "nombre_sede": "ESE HOSPITAL NUESTRA SEÑORA DEL CARMEN",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -338,10 +648,20 @@
          19.35759242
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL NUESTRA SEÑORA DEL CARMEN"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 56650551401,
+   "c_digo_municipio": 5665,
+   "c_digo_regi_n": 9,
+   "d_gito_verificaci_n_nit": 7,
+   "direcci_n": "CL 54 # 47 - 102",
+   "direcci_n_correo_electr_nico": "snpuhs01@edatel.net.co",
+   "n_mero_nit": 890985660,
+   "n_mero_tel_fono": 5748205065,
+   "nombre_municipio": "San Pedro de Urabá",
+   "nombre_regi_n": "Urabá",
+   "nombre_sede": "E.S.E. HOSPITAL OSCAR EMIRO VERGARA CRUZ",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -349,10 +669,20 @@
          19.36743892
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL OSCAR EMIRO VERGARA CRUZ"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 56470217401,
+   "c_digo_municipio": 5647,
+   "c_digo_regi_n": 5,
+   "d_gito_verificaci_n_nit": 6,
+   "direcci_n": "BRR EL CRUCERO",
+   "direcci_n_correo_electr_nico": "snanhs01@edatel.net.co",
+   "n_mero_nit": 890982113,
+   "n_mero_tel_fono": 5748618101,
+   "nombre_municipio": "San Andrés de Cuerquia",
+   "nombre_regi_n": "Norte",
+   "nombre_sede": "E.S.E GUSTAVO GONZALEZ OCHOA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -360,10 +690,20 @@
          19.36793014
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO GUSTAVO GONZALEZ OCHOA"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 57610561201,
+   "c_digo_municipio": 5761,
+   "c_digo_regi_n": 6,
+   "d_gito_verificaci_n_nit": 9,
+   "direcci_n": "CL BENJAMIN HERRERA # 11 - 53",
+   "direcci_n_correo_electr_nico": "sopehs01@edatel.net.co",
+   "n_mero_nit": 890982184,
+   "n_mero_tel_fono": 5748541555,
+   "nombre_municipio": "Sopetrán",
+   "nombre_regi_n": "Occidente",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HORACIO MUÑOZ SUESCUN",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -371,10 +711,20 @@
          19.36769386
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HORACIO MUÑOZ SUESCUN"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 56900483701,
+   "c_digo_municipio": 5690,
+   "c_digo_regi_n": 4,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "KR 16 # 18 29",
+   "direcci_n_correo_electr_nico": "stdohs01@edatel.net.co ",
+   "n_mero_nit": 890906560,
+   "n_mero_tel_fono": 5748621155,
+   "nombre_municipio": "Santo Domingo",
+   "nombre_regi_n": "Nordeste",
+   "nombre_sede": "ESE HOSPITAL SAN RAFAEL ",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -382,10 +732,20 @@
          19.35150057
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "ESE HOSPITAL SAN RAFAEL DE SANTO DOMINGO "
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 58370228701,
+   "c_digo_municipio": 5837,
+   "c_digo_regi_n": 9,
+   "d_gito_verificaci_n_nit": 8,
+   "direcci_n": "KM 1 SALIDA TURBO - APARTADO",
+   "direcci_n_correo_electr_nico": "turbhs01@edatel.net.co",
+   "n_mero_nit": 890981137,
+   "n_mero_tel_fono": 5748272088,
+   "nombre_municipio": "Turbo",
+   "nombre_regi_n": "Urabá",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL FRANCISCO VALDERRAMA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -393,10 +753,20 @@
          19.36962329
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL FRANCISCO VALDERRAMA"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 53640476801,
+   "c_digo_municipio": 5364,
+   "c_digo_regi_n": 8,
+   "d_gito_verificaci_n_nit": 6,
+   "direcci_n": "CL 5 UNION # 1 24 ",
+   "direcci_n_correo_electr_nico": "jardhs01@edatel.net.co",
+   "n_mero_nit": 890980732,
+   "n_mero_tel_fono": 5748455555,
+   "nombre_municipio": "Jardín",
+   "nombre_regi_n": "Suroeste",
+   "nombre_sede": "E.S.E HOSPITAL GABRIEL PELÁEZ MONTOYA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -404,10 +774,20 @@
          19.37914456
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E HOSPITAL GABRIEL PELÁEZ MONTOYA"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 51720630501,
+   "c_digo_municipio": 5172,
+   "c_digo_regi_n": 9,
+   "d_gito_verificaci_n_nit": 0,
+   "direcci_n": "KR 108 # 101 A - 57",
+   "direcci_n_correo_electr_nico": "esechigorodo@edatel.net.co",
+   "n_mero_nit": 890980997,
+   "n_mero_tel_fono": 5748253191,
+   "nombre_municipio": "Chigorodó",
+   "nombre_regi_n": "Urabá",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL MARIA AUXILIADORA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -415,10 +795,20 @@
          19.38212453
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL MARIA AUXILIADORA"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 50790407701,
+   "c_digo_municipio": 5079,
+   "c_digo_regi_n": 1,
+   "d_gito_verificaci_n_nit": 7,
+   "direcci_n": "KR 17 # 10 - 34",
+   "direcci_n_correo_electr_nico": "esebarbosa@une.net.co",
+   "n_mero_nit": 890905193,
+   "n_mero_tel_fono": 5744061341,
+   "nombre_municipio": "Barbosa",
+   "nombre_regi_n": "Valle de Aburrá",
+   "nombre_sede": "ESE HOSPITAL SAN VICENTE DE PAUL",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -426,10 +816,20 @@
          19.37933022
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "ESE HOSPITAL SAN VICENTE DE PAUL"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 51420410301,
+   "c_digo_municipio": 5142,
+   "c_digo_regi_n": 3,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "CL 21# 20-32",
+   "direcci_n_correo_electr_nico": "carahs01@edatel.net.co",
+   "n_mero_nit": 890981266,
+   "n_mero_tel_fono": 5748336014,
+   "nombre_municipio": "Caracolí",
+   "nombre_regi_n": "Magdalena Medio",
+   "nombre_sede": "HOSPITAL SAN PIO X",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -437,10 +837,20 @@
          19.37717729
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "HOSPITAL SAN PIO X"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 58900243101,
+   "c_digo_municipio": 5890,
+   "c_digo_regi_n": 4,
+   "d_gito_verificaci_n_nit": 3,
+   "direcci_n": "KR 24 # 13 - 466",
+   "direcci_n_correo_electr_nico": "yolohs01@edatel.net.co",
+   "n_mero_nit": 890981536,
+   "n_mero_tel_fono": 5748654210,
+   "nombre_municipio": "Yolombó",
+   "nombre_regi_n": "Nordeste",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN RAFAEL DE YOLOMBO",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -448,10 +858,20 @@
          19.37321862
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN RAFAEL DE YOLOMBO"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 51470631101,
+   "c_digo_municipio": 5147,
+   "c_digo_regi_n": 9,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "CL 70  # 68 - 03",
+   "direcci_n_correo_electr_nico": "carehs01@edatel.net.co",
+   "n_mero_nit": 800227877,
+   "n_mero_tel_fono": 5748236548,
+   "nombre_municipio": "Carepa",
+   "nombre_regi_n": "Urabá",
+   "nombre_sede": "E.S.E HOSPITAL FRANCISCO LUIS JIMENEZ MARTINEZ",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -459,10 +879,20 @@
          19.38790688
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL FRANCISCO LUIS JIMENEZ MARTINEZ"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 54950491501,
+   "c_digo_municipio": 5495,
+   "c_digo_regi_n": 2,
+   "d_gito_verificaci_n_nit": 7,
+   "direcci_n": "CL LA MISERICORDIA",
+   "direcci_n_correo_electr_nico": "hospitalnechi@gmail.com",
+   "n_mero_nit": 800138011,
+   "n_mero_tel_fono": 5748368053,
+   "nombre_municipio": "Nechí",
+   "nombre_regi_n": "Bajo Cauca",
+   "nombre_sede": "ESE HOSPITAL LA MISERICORDIA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -470,10 +900,20 @@
          19.37016163
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "ESE HOSPITAL LA MISERICORDIA"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 58730436301,
+   "c_digo_municipio": 5873,
+   "c_digo_regi_n": 9,
+   "d_gito_verificaci_n_nit": 8,
+   "direcci_n": "CL PRINCIPAL",
+   "direcci_n_correo_electr_nico": "vigihs@edatel.net.co",
+   "n_mero_nit": 811020943,
+   "n_mero_tel_fono": 5748678151,
+   "nombre_municipio": "Vigia del Fuerte",
+   "nombre_regi_n": "Urabá",
+   "nombre_sede": "E.S.E HOSPITAL ATRATO MEDIO ANTIOQUEÑO",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -481,10 +921,20 @@
          19.3794735
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL ATRATO MEDIO ANTIOQUEÑO"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 50880561801,
+   "c_digo_municipio": 5088,
+   "c_digo_regi_n": 1,
+   "d_gito_verificaci_n_nit": 5,
+   "direcci_n": "CL 44 # 49B-90",
+   "direcci_n_correo_electr_nico": "gerencia@hmfs.com.co",
+   "n_mero_nit": 890985703,
+   "n_mero_tel_fono": 5744547510,
+   "nombre_municipio": "Bello",
+   "nombre_regi_n": "Valle de Aburrá",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL MARCO FIDEL SUAREZ",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -492,10 +942,20 @@
          19.34361258
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL MARCO FIDEL SUAREZ"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 50880473401,
+   "c_digo_municipio": 5088,
+   "c_digo_regi_n": 1,
+   "d_gito_verificaci_n_nit": 8,
+   "direcci_n": "CL 38 # 55-310",
+   "direcci_n_correo_electr_nico": "homohs01@edatel.net.co",
+   "n_mero_nit": 890905166,
+   "n_mero_tel_fono": 5744527474,
+   "nombre_municipio": "Bello",
+   "nombre_regi_n": "Valle de Aburrá",
+   "nombre_sede": "E.S.E. HOSPITAL MENTAL DE ANTIOQUIA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -503,10 +963,20 @@
          19.34350123
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL MENTAL DE ANTIOQUIA"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 50880490901,
+   "c_digo_municipio": 5088,
+   "c_digo_regi_n": 1,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "CL 54 # 56A-11",
+   "direcci_n_correo_electr_nico": "bellhs01@edatel.net.co",
+   "n_mero_nit": 800174995,
+   "n_mero_tel_fono": 5744512351,
+   "nombre_municipio": "Bello",
+   "nombre_regi_n": "Valle de Aburrá",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO BELLO SALUD",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -514,10 +984,20 @@
          19.34348383
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO BELLO SALUD"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 58930322701,
+   "c_digo_municipio": 5893,
+   "c_digo_regi_n": 3,
+   "d_gito_verificaci_n_nit": 7,
+   "direcci_n": "KR 58 # 47B-50",
+   "direcci_n_correo_electr_nico": "esehectorabadgomez@hospitalyondo.gov.co",
+   "n_mero_nit": 800014884,
+   "n_mero_tel_fono": 5748325050,
+   "nombre_municipio": "Yondó",
+   "nombre_regi_n": "Magdalena Medio",
+   "nombre_sede": "ESE HOSPITAL HECTOR ABAD GOMEZ",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -525,10 +1005,20 @@
          19.34365339
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "ESE HOSPITAL HECTOR ABAD GOMEZ"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 53530238101,
+   "c_digo_municipio": 5353,
+   "c_digo_regi_n": 8,
+   "d_gito_verificaci_n_nit": 4,
+   "direcci_n": "CL 50 # 46-47",
+   "direcci_n_correo_electr_nico": "hisphs01@edatel.net.co",
+   "n_mero_nit": 800068653,
+   "n_mero_tel_fono": 5748432211,
+   "nombre_municipio": "Hispania",
+   "nombre_regi_n": "Suroeste",
+   "nombre_sede": "ESE HOSPITAL SAN JUAN DEL SUROESTE",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -536,10 +1026,20 @@
          19.37093277
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "ESE HOSPITAL SAN JUAN DEL SUROESTE"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 53610450501,
+   "c_digo_municipio": 5361,
+   "c_digo_regi_n": 5,
+   "d_gito_verificaci_n_nit": 3,
+   "direcci_n": "KR QUINDIO #  25-54",
+   "direcci_n_correo_electr_nico": "ituahs01@edatel.net.co",
+   "n_mero_nit": 890980840,
+   "n_mero_tel_fono": 5748643100,
+   "nombre_municipio": "Ituango",
+   "nombre_regi_n": "Norte",
+   "nombre_sede": "E.S.E.  HOSPITAL SAN JUAN DE DIOS DE ITUANGO",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -547,10 +1047,20 @@
          19.37032927
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E.  HOSPITAL SAN JUAN DE DIOS DE ITUANGO"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 58950588401,
+   "c_digo_municipio": 5895,
+   "c_digo_regi_n": 2,
+   "d_gito_verificaci_n_nit": 0,
+   "direcci_n": "Brr San Gregorio Diagonal Urbanización Miraflores",
+   "direcci_n_correo_electr_nico": "zarahs01@edatel.net.co",
+   "n_mero_nit": 890981117,
+   "n_mero_tel_fono": 5748389044,
+   "nombre_municipio": "Zaragoza",
+   "nombre_regi_n": "Bajo Cauca",
+   "nombre_sede": "ESE HOSPITAL SAN RAFAEL",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -558,10 +1068,20 @@
          19.36988993
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "ESE HOSPITAL SAN RAFAEL"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 51500458401,
+   "c_digo_municipio": 5150,
+   "c_digo_regi_n": 5,
+   "d_gito_verificaci_n_nit": 7,
+   "direcci_n": "CL 50 # 47-40 CL ABAJO",
+   "direcci_n_correo_electr_nico": "carohs01@edatel.net.co",
+   "n_mero_nit": 890906344,
+   "n_mero_tel_fono": 5748634045,
+   "nombre_municipio": "Carolina",
+   "nombre_regi_n": "Norte",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN RAFAEL",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -569,10 +1089,20 @@
          19.37726964
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN RAFAEL"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 54830592801,
+   "c_digo_municipio": 5483,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "CL 13 #  6-43",
+   "direcci_n_correo_electr_nico": "NARIHS01@EDATEL.NET.CO",
+   "n_mero_nit": 890981652,
+   "n_mero_tel_fono": 5748680273,
+   "nombre_municipio": "Nariño",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "E.S.E. HOSPITAL SAN JOAQUIN",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -580,10 +1110,20 @@
          19.38117697
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN JOAQUIN"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 55430629901,
+   "c_digo_municipio": 5543,
+   "c_digo_regi_n": 6,
+   "d_gito_verificaci_n_nit": 8,
+   "direcci_n": "KR BOLIVAR # 11-170",
+   "direcci_n_correo_electr_nico": "pequhs01@edatel.net.co",
+   "n_mero_nit": 890983675,
+   "n_mero_tel_fono": 5748552045,
+   "nombre_municipio": "Peque",
+   "nombre_regi_n": "Occidente",
+   "nombre_sede": "E.S.E. HOSPITAL SAN FRANCISCO",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -591,10 +1131,20 @@
          19.37965441
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN FRANCISCO"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 53760592601,
+   "c_digo_municipio": 5376,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 7,
+   "direcci_n": "CL 17 # 19-55",
+   "direcci_n_correo_electr_nico": "hospitalceja@epm.net.co",
+   "n_mero_nit": 890980758,
+   "n_mero_tel_fono": 5745531444,
+   "nombre_municipio": "La Ceja",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "HOSPITAL DE LA CEJA ESE",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -602,10 +1152,20 @@
          19.37967149
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL DE LA CEJA"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 50910457201,
+   "c_digo_municipio": 5091,
+   "c_digo_regi_n": 8,
+   "d_gito_verificaci_n_nit": 2,
+   "direcci_n": "CL 20 # 26-173",
+   "direcci_n_correo_electr_nico": "betahs01@edatel.net.co",
+   "n_mero_nit": 890981494,
+   "n_mero_tel_fono": 5748435044,
+   "nombre_municipio": "Betania",
+   "nombre_regi_n": "Suroeste",
+   "nombre_sede": "E.S.E. HOSPITAL SAN ANTONIO DE BETANIA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -613,10 +1173,20 @@
          19.37994001
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN ANTONIO DE BETANIA"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 53600212101,
+   "c_digo_municipio": 5360,
+   "c_digo_regi_n": 1,
+   "d_gito_verificaci_n_nit": 6,
+   "direcci_n": "CL 33 # 50A-25 SAN PIO",
+   "direcci_n_correo_electr_nico": "hospitaldelsur@epm.net.co",
+   "n_mero_nit": 811017810,
+   "n_mero_tel_fono": 5743725755,
+   "nombre_municipio": "Itagüí",
+   "nombre_regi_n": "Valle de Aburrá",
+   "nombre_sede": "E.S.E. HOSPITAL DEL SUR GABRIEL JARAMILLO PIEDRAHITA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -624,10 +1194,20 @@
          19.38059059
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL DEL SUR GABRIEL JARAMILLO PIEDRAHITA"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 58850211201,
+   "c_digo_municipio": 5885,
+   "c_digo_regi_n": 4,
+   "d_gito_verificaci_n_nit": 7,
+   "direcci_n": "CL 18 # 23-24",
+   "direcci_n_correo_electr_nico": "yalihs01@edatel.net.co",
+   "n_mero_nit": 890982162,
+   "n_mero_tel_fono": 5748675655,
+   "nombre_municipio": "Yalí",
+   "nombre_regi_n": "Nordeste",
+   "nombre_sede": "E.S.E. HOSPITAL LA MISERICORDIA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -635,10 +1215,20 @@
          19.38806153
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL LA MISERICORDIA"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 54750502001,
+   "c_digo_municipio": 5475,
+   "c_digo_regi_n": 9,
+   "d_gito_verificaci_n_nit": 9,
+   "direcci_n": "CL DEL PUERTO",
+   "direcci_n_correo_electr_nico": "murihs01@edatel.net.co",
+   "n_mero_nit": 800165050,
+   "n_mero_tel_fono": 5748575093,
+   "nombre_municipio": "Murindó",
+   "nombre_regi_n": "Urabá",
+   "nombre_sede": "ESE HOSPITAL SAN BARTOLOMÉ",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -646,10 +1236,20 @@
          19.37176241
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "ESE HOSPITAL SAN BARTOLOMÉ"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 51010213901,
+   "c_digo_municipio": 5101,
+   "c_digo_regi_n": 8,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "CL 49 # 36-298",
+   "direcci_n_correo_electr_nico": "cbolhs01@edatel.net.co",
+   "n_mero_nit": 890907241,
+   "n_mero_tel_fono": 5748411201,
+   "nombre_municipio": "Ciudad Bolívar",
+   "nombre_regi_n": "Suroeste",
+   "nombre_sede": "E.S.E. HOSPITAL LA MERCED DE CIUDAD BOLIVAR",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -657,10 +1257,20 @@
          19.37022806
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL LA MERCED DE CIUDAD BOLIVAR"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 50420547801,
+   "c_digo_municipio": 5042,
+   "c_digo_regi_n": 6,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "CL 10 # 3-24",
+   "direcci_n_correo_electr_nico": "stfehs01@edatel.net.co",
+   "n_mero_nit": 890982264,
+   "n_mero_tel_fono": 5748531020,
+   "nombre_municipio": "Santa Fé de Antioquia",
+   "nombre_regi_n": "Occidente",
+   "nombre_sede": "E.S.E. HOSPITAL SAN JUAN DE DIOS ANTIOQUIA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -668,10 +1278,20 @@
          19.37332079
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN JUAN DE DIOS ANTIOQUIA"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 56600227701,
+   "c_digo_municipio": 5660,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 2,
+   "direcci_n": "KR 19 #17-63",
+   "direcci_n_correo_electr_nico": "snluhsor@edatel.net.co",
+   "n_mero_nit": 890982091,
+   "n_mero_tel_fono": 5748348505,
+   "nombre_municipio": "San Luis",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "E.S.E. HOSPITAL SAN RAFAEL DE SAN LUIS",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -679,10 +1299,20 @@
          19.37099539
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN RAFAEL DE SAN LUIS"
 },
  {
-   "nombre_sector": "SAN FCO.",
+   "c_digo_habilitaci_n_prestador_salud": 56580559101,
+   "c_digo_municipio": 5658,
+   "c_digo_regi_n": 5,
+   "d_gito_verificaci_n_nit": 2,
+   "direcci_n": "KR 21 # 15-11",
+   "direcci_n_correo_electr_nico": "hospitallaureanopino@gmail.com, snmohs01@edatel.net.co,",
+   "n_mero_nit": 890984427,
+   "n_mero_tel_fono": 5748622663,
+   "nombre_municipio": "San José de la Montaña",
+   "nombre_regi_n": "Norte",
+   "nombre_sede": "E.S.E. HOSPITAL LAUREANO PINO",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -690,10 +1320,20 @@
          19.37595073
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL LAUREANO PINO"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 50510232301,
+   "c_digo_municipio": 5051,
+   "c_digo_regi_n": 9,
+   "d_gito_verificaci_n_nit": 0,
+   "direcci_n": "BARRIO EL DEPORTIVO",
+   "direcci_n_correo_electr_nico": "arbosh@edatel.net.co",
+   "n_mero_nit": 890982134,
+   "n_mero_tel_fono": 5748200026,
+   "nombre_municipio": "Arboletes",
+   "nombre_regi_n": "Urabá",
+   "nombre_sede": "E.S.E. HOSPITAL PEDRO NEL CARMONA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -701,10 +1341,20 @@
          19.31075069
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL PEDRO NEL CARDONA"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 56860464901,
+   "c_digo_municipio": 5686,
+   "c_digo_regi_n": 5,
+   "d_gito_verificaci_n_nit": 5,
+   "direcci_n": "KR 28 # 26A-34",
+   "direcci_n_correo_electr_nico": "stlo01@edatel.com.co",
+   "n_mero_nit": 890981298,
+   "n_mero_tel_fono": 5748609474,
+   "nombre_municipio": "Santa Rosa de Osos",
+   "nombre_regi_n": "Norte",
+   "nombre_sede": "E.S.E. HOSPITAL SAN JUAN DE DIOS DE SANTA ROSA DE OSOS",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -712,10 +1362,20 @@
          19.29796298
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN JUAN DE DIOS DE SANTA ROSA DE OSOS"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 50450214301,
+   "c_digo_municipio": 5045,
+   "c_digo_regi_n": 9,
+   "d_gito_verificaci_n_nit": 8,
+   "direcci_n": "KR 98 # 106-176 BARRIO LA CHINITA",
+   "direcci_n_correo_electr_nico": "apartah01@edatel.net.co",
+   "n_mero_nit": 890905991,
+   "n_mero_tel_fono": 5748283105,
+   "nombre_municipio": "Apartadó",
+   "nombre_regi_n": "Urabá",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL ANTONIO ROLDAN BETANCUR",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -723,10 +1383,20 @@
          19.30481878
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL ANTONIO ROLDAN BETANCUR"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 51290214601,
+   "c_digo_municipio": 5129,
+   "c_digo_regi_n": 1,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "KR 48 # 135S-41",
+   "direcci_n_correo_electr_nico": "hospsvp@medellin.impsat.net",
+   "n_mero_nit": 890907215,
+   "n_mero_tel_fono": 5742780600,
+   "nombre_municipio": "Caldas",
+   "nombre_regi_n": "Valle de Aburrá",
+   "nombre_sede": "E.S.E. HOSPITAL SAN VICENTE DE PAUL DE CALDAS",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -734,10 +1404,20 @@
          19.30428307
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E.  HOSPITAL SAN VICENTE DE PAUL DE CALDAS"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 58560238201,
+   "c_digo_municipio": 5856,
+   "c_digo_regi_n": 8,
+   "d_gito_verificaci_n_nit": 4,
+   "direcci_n": "KR NARIÑO # 09",
+   "direcci_n_correo_electr_nico": "valphsoi@edatel.net.co",
+   "n_mero_nit": 890980828,
+   "n_mero_tel_fono": 5748493160,
+   "nombre_municipio": "Valparaiso",
+   "nombre_regi_n": "Suroeste",
+   "nombre_sede": "E.S.E. HOSPITAL SAN JUAN DE DIOS",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -745,10 +1425,20 @@
          19.29506534
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN JUAN DE DIOS"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 50010214401,
+   "c_digo_municipio": 5001,
+   "c_digo_regi_n": 1,
+   "d_gito_verificaci_n_nit": 7,
+   "direcci_n": "KR 48 # 32-102",
+   "direcci_n_correo_electr_nico": "hgm@epm.net.co",
+   "n_mero_nit": 890904647,
+   "n_mero_tel_fono": 5743847300,
+   "nombre_municipio": "Medellín",
+   "nombre_regi_n": "Valle de Aburrá",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL GENERAL DE MEDELLIN LUZ CASTRO DE GUTIERREZ ",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -756,10 +1446,20 @@
          19.31149615
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL GENERAL DE MEDELLIN LUZ CASTRO DE GUTIERREZ "
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 51070231101,
+   "c_digo_municipio": 5107,
+   "c_digo_regi_n": 5,
+   "d_gito_verificaci_n_nit": 3,
+   "direcci_n": "CL 11 # 8-31",
+   "direcci_n_correo_electr_nico": "brichs01@edatel.net.co",
+   "n_mero_nit": 800044320,
+   "n_mero_tel_fono": 5748570099,
+   "nombre_municipio": "Briceño",
+   "nombre_regi_n": "Norte",
+   "nombre_sede": "ESE HOSPITAL EL SAGRADO CORAZON",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -767,10 +1467,20 @@
          19.33210718
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL EL SAGRADO CORAZON"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 56590215901,
+   "c_digo_municipio": 5659,
+   "c_digo_regi_n": 9,
+   "d_gito_verificaci_n_nit": 8,
+   "direcci_n": "KR 20 # 24-20",
+   "direcci_n_correo_electr_nico": "0snjuhs01@edatel.net.co",
+   "n_mero_nit": 800143438,
+   "n_mero_tel_fono": 5748212550,
+   "nombre_municipio": "San Juan de Urabá",
+   "nombre_regi_n": "Urabá",
+   "nombre_sede": "E.S.E. HOSPITAL HECTOR ABAD GOMEZ",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -778,10 +1488,20 @@
          19.33231155
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL HECTOR ABAD GOMEZ"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 57560239401,
+   "c_digo_municipio": 5756,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 5,
+   "direcci_n": "CL 16 # 7-165 BUENOS AIRES",
+   "direcci_n_correo_electr_nico": "sonshs01@edatel.net.co",
+   "n_mero_nit": 890980003,
+   "n_mero_tel_fono": 5748695050,
+   "nombre_municipio": "Sonsón",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO SAN JUAN DE DIOS",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -789,10 +1509,20 @@
          19.34043925
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO SAN JUAN DE DIOS"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 51340593001,
+   "c_digo_municipio": 5134,
+   "c_digo_regi_n": 5,
+   "d_gito_verificaci_n_nit": 8,
+   "direcci_n": "CL BOLIVAR # 15-07",
+   "direcci_n_correo_electr_nico": "camphs01@edatel.net.co",
+   "n_mero_nit": 890985457,
+   "n_mero_tel_fono": 5748614113,
+   "nombre_municipio": "Campamento",
+   "nombre_regi_n": "Norte",
+   "nombre_sede": "E.S.E. HOSPITAL LA SAGRADA FAMILIA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -800,10 +1530,20 @@
          19.34231301
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL LA SAGRADA FAMILIA"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 54110157901,
+   "c_digo_municipio": 5411,
+   "c_digo_regi_n": 6,
+   "d_gito_verificaci_n_nit": 7,
+   "direcci_n": "KR 13 # 6-21",
+   "direcci_n_correo_electr_nico": "libohs01@edatel.net.co",
+   "n_mero_nit": 890982139,
+   "n_mero_tel_fono": 5748561826,
+   "nombre_municipio": "Liborina",
+   "nombre_regi_n": "Occidente",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN LORENZO",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -811,10 +1551,20 @@
          19.34160343
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN LORENZO"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 54900481101,
+   "c_digo_municipio": 5490,
+   "c_digo_regi_n": 9,
+   "d_gito_verificaci_n_nit": 7,
+   "direcci_n": "CL 50 # 36 - 37 KM 2 VIA TURBO",
+   "direcci_n_correo_electr_nico": "necohs01@edatel.net.co",
+   "n_mero_nit": 890985603,
+   "n_mero_tel_fono": 5748214546,
+   "nombre_municipio": "Necoclí",
+   "nombre_regi_n": "Urabá",
+   "nombre_sede": "E.S.E. HOSPITAL SAN SEBASTIAN DE URABÁ",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -822,10 +1572,20 @@
          19.34229909
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN SEBASTIAN DE URABA"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 51130559601,
+   "c_digo_municipio": 5113,
+   "c_digo_regi_n": 6,
+   "d_gito_verificaci_n_nit": 9,
+   "direcci_n": "CL 8 # 3-56",
+   "direcci_n_correo_electr_nico": "burihs01@edatel.net.co",
+   "n_mero_nit": 890983843,
+   "n_mero_tel_fono": 5748527035,
+   "nombre_municipio": "Buriticá",
+   "nombre_regi_n": "Occidente",
+   "nombre_sede": "E.S.E. HOSPITAL SAN ANTONIO DE BURITICA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -833,10 +1593,20 @@
          19.33838894
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN ANTONIO DE BURITICA"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 56040550901,
+   "c_digo_municipio": 5604,
+   "c_digo_regi_n": 4,
+   "d_gito_verificaci_n_nit": 3,
+   "direcci_n": "CL LAS PALMAS # 12 - 120",
+   "direcci_n_correo_electr_nico": "remehs01@edatel.net.co",
+   "n_mero_nit": 890985092,
+   "n_mero_tel_fono": 5748303727,
+   "nombre_municipio": "Remedios",
+   "nombre_regi_n": "Nordeste",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN VICENTE DE PAUL",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -844,10 +1614,20 @@
          19.33772584
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN VICENTE DE PAUL"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 50010608601,
+   "c_digo_municipio": 5001,
+   "c_digo_regi_n": 1,
+   "d_gito_verificaci_n_nit": 9,
+   "direcci_n": "CL 92EE # 67-61",
+   "direcci_n_correo_electr_nico": "sismaria@epm.net.co",
+   "n_mero_nit": 890905177,
+   "n_mero_tel_fono": 5742677511,
+   "nombre_municipio": "Medellín",
+   "nombre_regi_n": "Valle de Aburrá",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL LA MARIA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -855,10 +1635,20 @@
          19.33971195
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL LA MARIA"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 55910421901,
+   "c_digo_municipio": 5591,
+   "c_digo_regi_n": 3,
+   "d_gito_verificaci_n_nit": 3,
+   "direcci_n": "CL 14 # 10 - 25",
+   "direcci_n_correo_electr_nico": "               ptrihs01@edatel.net.co",
+   "n_mero_nit": 800072678,
+   "n_mero_tel_fono": 5748352098,
+   "nombre_municipio": "Puerto Triunfo",
+   "nombre_regi_n": "Magdalena Medio",
+   "nombre_sede": "ESE HOSPITAL LA PAZ",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -866,10 +1656,20 @@
          19.34027031
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "ESE HOSPITAL LA PAZ"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 53100501501,
+   "c_digo_municipio": 5310,
+   "c_digo_regi_n": 5,
+   "d_gito_verificaci_n_nit": 4,
+   "direcci_n": "KR 52 # 48-047",
+   "direcci_n_correo_electr_nico": "gomehs01@edatel.net.co",
+   "n_mero_nit": 890902151,
+   "n_mero_tel_fono": 5748627631,
+   "nombre_municipio": "Gomez Plata",
+   "nombre_regi_n": "Norte",
+   "nombre_sede": "E.S.E. HOSPITAL SANTA ISABEL",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -877,10 +1677,20 @@
          19.34372394
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SANTA ISABEL"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 53150458601,
+   "c_digo_municipio": 5315,
+   "c_digo_regi_n": 5,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "CL 50 # 51-12",
+   "direcci_n_correo_electr_nico": "guadahs01@edatel.net.co",
+   "n_mero_nit": 890981690,
+   "n_mero_tel_fono": 5748616110,
+   "nombre_municipio": "Guadalupe",
+   "nombre_regi_n": "Norte",
+   "nombre_sede": "E.S.E. HOSPITAL NUESTRA SEÑORA DE GUADALUPE",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -888,10 +1698,20 @@
          19.33808207
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. NUESTRA SEÑORA DE GUADALUPE"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 51250831301,
+   "c_digo_municipio": 5125,
+   "c_digo_regi_n": 6,
+   "d_gito_verificaci_n_nit": 2,
+   "direcci_n": "KR 5 # 3-23",
+   "direcci_n_correo_electr_nico": "caich01@edatel.net.co",
+   "n_mero_nit": 800037244,
+   "n_mero_tel_fono": 5748572123,
+   "nombre_municipio": "Caicedo",
+   "nombre_regi_n": "Occidente",
+   "nombre_sede": "E.S.E. HOSPITAL GUILLERMO GAVIRIA CORREA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -899,10 +1719,20 @@
          19.33856293
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL GUILLERMO GAVIRIA CORREA"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 50010239301,
+   "c_digo_municipio": 5001,
+   "c_digo_regi_n": 1,
+   "d_gito_verificaci_n_nit": 5,
+   "direcci_n": "KR 93 # 34AA-01",
+   "direcci_n_correo_electr_nico": "esecarismepm.net.coa",
+   "n_mero_nit": 890985405,
+   "n_mero_tel_fono": 5744924000,
+   "nombre_municipio": "Medellín",
+   "nombre_regi_n": "Valle de Aburrá",
+   "nombre_sede": "E.S.E. CENTRO DE ATENCION Y REHABILITACION EN SALUD MENTAL DE ANTIOQUIA CARISMA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -910,10 +1740,20 @@
          19.33962558
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. CENTRO DE ATENCION Y REHABILITACION EN SALUD MENTAL DE ANTIOQUIA"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 56150501301,
+   "c_digo_municipio": 5615,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "KR 70 # 40-68",
+   "direcci_n_correo_electr_nico": "hgmm@epm.net.co",
+   "n_mero_nit": 800176899,
+   "n_mero_tel_fono": 5745316927,
+   "nombre_municipio": "Rionegro",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "E.S.E. HOSPITAL GILBERTO MEJIA MEJIA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -921,10 +1761,20 @@
          19.34445723
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL GILBERTO MEJIA MEJIA"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 52370594801,
+   "c_digo_municipio": 5237,
+   "c_digo_regi_n": 5,
+   "d_gito_verificaci_n_nit": 8,
+   "direcci_n": "CL 36A # 29-55",
+   "direcci_n_correo_electr_nico": "dnaths@01edatel.net.co",
+   "n_mero_nit": 890905097,
+   "n_mero_tel_fono": 5748663737,
+   "nombre_municipio": "Don Matias",
+   "nombre_regi_n": "Norte",
+   "nombre_sede": "E.S.E. HOSPITAL FRANCISCO ELADIO BARRERA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -932,10 +1782,20 @@
          19.344536
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL FRANCISCO ELADIO BARRERA"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 58470483901,
+   "c_digo_municipio": 5847,
+   "c_digo_regi_n": 8,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "KR 32 # 23-61",
+   "direcci_n_correo_electr_nico": "urrahs01@edatel.net.co",
+   "n_mero_nit": 890980971,
+   "n_mero_tel_fono": 5748512131,
+   "nombre_municipio": "Urrao",
+   "nombre_regi_n": "Suroeste",
+   "nombre_sede": "ESE HOSPITAL IVAN RESTREPO GOMEZ",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -943,10 +1803,20 @@
          19.33639965
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO IVAN RESTREPO GOMEZ"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 56970242701,
+   "c_digo_municipio": 5697,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 9,
+   "direcci_n": "CL 49 # 41-63",
+   "direcci_n_correo_electr_nico": "hospital@epm.net.co",
+   "n_mero_nit": 890980326,
+   "n_mero_tel_fono": 5745460050,
+   "nombre_municipio": "El Santuario",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "E.S.E. HOSPITAL SAN JUAN DE DIOS EL SANTUARIO",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -954,10 +1824,20 @@
          19.33676252
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN JUAN DE DIOS EL SANTUARIO"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 53680483301,
+   "c_digo_municipio": 5368,
+   "c_digo_regi_n": 8,
+   "d_gito_verificaci_n_nit": 9,
+   "direcci_n": "KR 5 # 9-157",
+   "direcci_n_correo_electr_nico": "jerihs01@edatel.net.co",
+   "n_mero_nit": 890980765,
+   "n_mero_tel_fono": 5748523166,
+   "nombre_municipio": "Jericó",
+   "nombre_regi_n": "Suroeste",
+   "nombre_sede": "NUEVA ESE HOSPITAL SAN RAFAEL JERICO",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -965,10 +1845,20 @@
          19.33557647
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "NUEVA ESE HOSPITAL SAN RAFAEL JERICO"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 52120230801,
+   "c_digo_municipio": 5212,
+   "c_digo_regi_n": 1,
+   "d_gito_verificaci_n_nit": 7,
+   "direcci_n": "KR 45 # 52-26",
+   "direcci_n_correo_electr_nico": "santamar@epm.net.co",
+   "n_mero_nit": 890980949,
+   "n_mero_tel_fono": 5742740203,
+   "nombre_municipio": "Copacabana",
+   "nombre_regi_n": "Valle de Aburrá",
+   "nombre_sede": "E.S.E. HOSPITAL SANTA MARGARITA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -976,10 +1866,20 @@
          19.33617725
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SANTA MARGARITA"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 56560509201,
+   "c_digo_municipio": 5656,
+   "c_digo_regi_n": 6,
+   "d_gito_verificaci_n_nit": 6,
+   "direcci_n": "KR 10 # 23-08",
+   "direcci_n_correo_electr_nico": "snjehs01@edatel.net.co",
+   "n_mero_nit": 890981848,
+   "n_mero_tel_fono": 5748582020,
+   "nombre_municipio": "San Jerónimo",
+   "nombre_regi_n": "Occidente",
+   "nombre_sede": "E.S.E. HOSPITAL SAN LUIS BELTRAN",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -987,10 +1887,20 @@
          19.33605735
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN LUIS BELTRAN"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 51380491401,
+   "c_digo_municipio": 5138,
+   "c_digo_regi_n": 6,
+   "d_gito_verificaci_n_nit": 9,
+   "direcci_n": "KR 31 # 33-140",
+   "direcci_n_correo_electr_nico": "canahs01@edatel.net.co",
+   "n_mero_nit": 890980784,
+   "n_mero_tel_fono": 5748564181,
+   "nombre_municipio": "Cañasgordas",
+   "nombre_regi_n": "Occidente",
+   "nombre_sede": "E.S.E. HOSPITAL SAN CARLOS",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -998,10 +1908,20 @@
          19.33808396
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN CARLOS"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 53180243601,
+   "c_digo_municipio": 5318,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 4,
+   "direcci_n": "KR 52 # 52-177",
+   "direcci_n_correo_electr_nico": "guarhs01@edatel.net.co",
+   "n_mero_nit": 890981719,
+   "n_mero_tel_fono": 5745511313,
+   "nombre_municipio": "Guarne",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "E.S.E. NUETRA SEÑORA DE LA CANDELARIA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1009,10 +1929,20 @@
          19.33793464
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. NUETRA SEÑORA DE LA CANDELARIA"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 55760592901,
+   "c_digo_municipio": 5576,
+   "c_digo_regi_n": 8,
+   "d_gito_verificaci_n_nit": 4,
+   "direcci_n": "CL 32 #  26A-38",
+   "direcci_n_correo_electr_nico": "PRICHS01@EDATEL.NET.CO",
+   "n_mero_nit": 890981532,
+   "n_mero_tel_fono": 5748498326,
+   "nombre_municipio": "Pueblorrico",
+   "nombre_regi_n": "Suroeste",
+   "nombre_sede": "E.S.E. HOSPITAL SAN VICENTE DE PAUL DE PUEBLO RICO",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1020,10 +1950,20 @@
          19.33787042
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN VICENTE DE PAUL DE PUEBLO RICO"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 56310220601,
+   "c_digo_municipio": 5631,
+   "c_digo_regi_n": 1,
+   "d_gito_verificaci_n_nit": 2,
+   "direcci_n": "KR 46B # 77 SUR 36",
+   "direcci_n_correo_electr_nico": "esehvdds@emp.net.co",
+   "n_mero_nit": 800123106,
+   "n_mero_tel_fono": 5742889701,
+   "nombre_municipio": "Sabaneta",
+   "nombre_regi_n": "Valle de Aburrá",
+   "nombre_sede": "E.S.E. HOSPITAL VENACIO DIAZ DIAZ",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1031,10 +1971,20 @@
          19.33781031
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL VENANCIO DIAZ DIAZ"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 52090581901,
+   "c_digo_municipio": 5209,
+   "c_digo_regi_n": 8,
+   "d_gito_verificaci_n_nit": 3,
+   "direcci_n": "KR 18 # 16-05",
+   "direcci_n_correo_electr_nico": "concohs01@edatel.net.co",
+   "n_mero_nit": 89090797,
+   "n_mero_tel_fono": 5748447723,
+   "nombre_municipio": "Concordia",
+   "nombre_regi_n": "Suroeste",
+   "nombre_sede": "E.S.E. HOSPITAL SAN JUAN DE DIOS DE CONCORDIA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1042,10 +1992,20 @@
          19.33764454
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN JUAN DE DIOS DE CONCORDIA"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 50020436001,
+   "c_digo_municipio": 5002,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 9,
+   "direcci_n": "CL CIRCULAR X KR CALIBIO",
+   "direcci_n_correo_electr_nico": "abejhs01@edatel.net.co",
+   "n_mero_nit": 890980643,
+   "n_mero_tel_fono": 5748647181,
+   "nombre_municipio": "Abejorral",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "HOSPITAL SAN JUAN DE DIOS ABEJORRAL",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1053,10 +2013,20 @@
          19.3377733
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "HOSPITAL SAN JUAN DE DIOS ABEJORRAL"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 53080610401,
+   "c_digo_municipio": 5308,
+   "c_digo_regi_n": 1,
+   "d_gito_verificaci_n_nit": 9,
+   "direcci_n": "KR 16 # 11-01",
+   "direcci_n_correo_electr_nico": "girarhs.a.@epm.net.co",
+   "n_mero_nit": 890980727,
+   "n_mero_tel_fono": 5744052380,
+   "nombre_municipio": "Girardota",
+   "nombre_regi_n": "Valle de Aburrá",
+   "nombre_sede": "E.S.E. HOSPITAL SAN RAFAEL",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1064,10 +2034,20 @@
          19.3377037
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN RAFAEL"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 56670151201,
+   "c_digo_municipio": 5667,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "KR 29 # 26-189",
+   "direcci_n_correo_electr_nico": "snrahs01@edatel.net.co",
+   "n_mero_nit": 891982128,
+   "n_mero_tel_fono": 5748586612,
+   "nombre_municipio": "San Rafael",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "ESE HOSPITAL PBRO ALONSO MARIA GIRALDO",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1075,10 +2055,20 @@
          19.33769389
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL PRESBITERO ALONSO MARIA GIRALDO"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 57900551301,
+   "c_digo_municipio": 5790,
+   "c_digo_regi_n": 2,
+   "d_gito_verificaci_n_nit": 7,
+   "direcci_n": "CL 26 # 32-1311",
+   "direcci_n_correo_electr_nico": "tarahs01@edatel.net.co",
+   "n_mero_nit": 890984696,
+   "n_mero_tel_fono": 5748365616,
+   "nombre_municipio": "Tarazá",
+   "nombre_regi_n": "Bajo Cauca",
+   "nombre_sede": "E.S.E. HOSPITAL SAN ANTONIO",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1086,10 +2076,20 @@
          19.3376806
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN ANTONIO"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 56070238301,
+   "c_digo_municipio": 5607,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 7,
+   "direcci_n": "CL 18 # 21-103",
+   "direcci_n_correo_electr_nico": "eseretiro@epm.net.co",
+   "n_mero_nit": 890982124,
+   "n_mero_tel_fono": 5745410055,
+   "nombre_municipio": "El Retiro",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "E.S.E. HOSPITAL SAN JUAN DE DIOS DEL RETIRO",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1097,10 +2097,20 @@
          19.33747624
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN JUAN DE DIOS DEL RETIRO"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 51970559301,
+   "c_digo_municipio": 5197,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 4,
+   "direcci_n": "CL 21 # 23-45",
+   "direcci_n_correo_electr_nico": "cocohs01@edatel.net.co",
+   "n_mero_nit": 890981108,
+   "n_mero_tel_fono": 5748343685,
+   "nombre_municipio": "Cocorná",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "ESE HOSPITAL SAN JUAN DE DIOS ",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1108,10 +2118,20 @@
          19.33744871
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "ESE HOSPITAL SAN JUAN DE DIOS DE COCORNA"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 58580629401,
+   "c_digo_municipio": 5858,
+   "c_digo_regi_n": 4,
+   "d_gito_verificaci_n_nit": 3,
+   "direcci_n": "CL 49 # 39 - 99",
+   "direcci_n_correo_electr_nico": "vegahs01edatel.net.co",
+   "n_mero_nit": 800114286,
+   "n_mero_tel_fono": 5748305474,
+   "nombre_municipio": "Vegachí",
+   "nombre_regi_n": "Nordeste",
+   "nombre_sede": "E.S.E. HOSPITAL SAN CAMILO DE LELIS",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1119,10 +2139,20 @@
          19.34108841
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN CAMILO DE LELIS"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 51480431001,
+   "c_digo_municipio": 5148,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 0,
+   "direcci_n": "KR 31 # 19-58",
+   "direcci_n_correo_electr_nico": "hospitalcarmen@epm.net.co",
+   "n_mero_nit": 890907279,
+   "n_mero_tel_fono": 5745434343,
+   "nombre_municipio": "El Carmen de Viboral",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "E.S.E. HOSPITAL SAN JUAN DE DIOS DEL CARMEN DE VIBORAL",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1130,10 +2160,20 @@
          19.34128835
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN JUAN DE DIOS DEL CARMEN DE VIBORAL"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 50440501401,
+   "c_digo_municipio": 5044,
+   "c_digo_regi_n": 6,
+   "d_gito_verificaci_n_nit": 3,
+   "direcci_n": "KR 8 # 7-29",
+   "direcci_n_correo_electr_nico": "anzahs01@edatel.net.co",
+   "n_mero_nit": 890397282,
+   "n_mero_tel_fono": 5748522029,
+   "nombre_municipio": "Anzá",
+   "nombre_regi_n": "Occidente",
+   "nombre_sede": "E.S.E. HOSPITAL SAN FRANCISCO DE ASIS",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1141,10 +2181,20 @@
          19.34276666
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN FRANCISCO DE ASIS"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 52060478001,
+   "c_digo_municipio": 5206,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 2,
+   "direcci_n": "KR 19 # 19-83",
+   "direcci_n_correo_electr_nico": "hospitalconcepcion@hotmail.com",
+   "n_mero_nit": 890980512,
+   "n_mero_tel_fono": 5748567024,
+   "nombre_municipio": "Concepción",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "ESE HOSPITAL JOSE MARIA CORDOBA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1152,10 +2202,20 @@
          19.33787801
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "ESE HOSPITAL JOSE MARIA CORDOBA"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 58870228401,
+   "c_digo_municipio": 5887,
+   "c_digo_regi_n": 5,
+   "d_gito_verificaci_n_nit": 6,
+   "direcci_n": "KR 23 # 12 - 13",
+   "direcci_n_correo_electr_nico": "hospiyar@col.telecom.com.co",
+   "n_mero_nit": 890981726,
+   "n_mero_tel_fono": 5748871550,
+   "nombre_municipio": "Yarumal",
+   "nombre_regi_n": "Norte",
+   "nombre_sede": "E.S.E. HOSPITAL SAN JUAN DE DIOS YARUMAL",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1163,10 +2223,20 @@
          19.34319563
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN JUAN DE DIOS YARUMAL"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 53210442901,
+   "c_digo_municipio": 5321,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 8,
+   "direcci_n": "KR 23A # 31-35",
+   "direcci_n_correo_electr_nico": "guaths01@edatel.net.co",
+   "n_mero_nit": 890981817,
+   "n_mero_tel_fono": 5748610950,
+   "nombre_municipio": "Guatapé",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "E.S.E. HOSPITAL LA INMACULADA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1174,10 +2244,20 @@
          19.34083501
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL LA INMACULADA"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 51200554701,
+   "c_digo_municipio": 5120,
+   "c_digo_regi_n": 2,
+   "d_gito_verificaci_n_nit": 6,
+   "direcci_n": "KR 50 # 52-48",
+   "direcci_n_correo_electr_nico": "hospitalcaceres@gmail.com",
+   "n_mero_nit": 890982430,
+   "n_mero_tel_fono": 5748362039,
+   "nombre_municipio": "Cáceres",
+   "nombre_regi_n": "Bajo Cauca",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL ISABEL LA CATOLICA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1185,10 +2265,20 @@
          19.34138989
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL ISABEL LA CATOLICA"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 54000242001,
+   "c_digo_municipio": 5400,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 4,
+   "direcci_n": "CL 2 # 11-54",
+   "direcci_n_correo_electr_nico": "uniohs@edatel.net.co",
+   "n_mero_nit": 890980866,
+   "n_mero_tel_fono": 5745560619,
+   "nombre_municipio": "La Unión",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "E.S.E. HOSPITAL SAN ROQUE LA UNION",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1196,10 +2286,20 @@
          19.34230669
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN ROQUE  LA UNION"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 56420457601,
+   "c_digo_municipio": 5642,
+   "c_digo_regi_n": 8,
+   "d_gito_verificaci_n_nit": 7,
+   "direcci_n": "CL 32A # 33-04",
+   "direcci_n_correo_electr_nico": "salghs01@edatel.net.co",
+   "n_mero_nit": 890981424,
+   "n_mero_tel_fono": 5748442020,
+   "nombre_municipio": "Salgar",
+   "nombre_regi_n": "Suroeste",
+   "nombre_sede": "E.S.E. HOSPITAL SAN JOSE",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1207,10 +2307,20 @@
          19.34137344
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN JOSE"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 50340443201,
+   "c_digo_municipio": 5034,
+   "c_digo_regi_n": 8,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "AV MEDELLIN # 48-20",
+   "direcci_n_correo_electr_nico": "andehs01@edatel.net.co",
+   "n_mero_nit": 890980814,
+   "n_mero_tel_fono": 5748417120,
+   "nombre_municipio": "Andes",
+   "nombre_regi_n": "Suroeste",
+   "nombre_sede": "E.S.E. HOSPITAL SAN RAFAEL",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1218,10 +2328,20 @@
          19.34622339
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN RAFAEL"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 56490398301,
+   "c_digo_municipio": 5649,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 8,
+   "direcci_n": "CL 21 # 24-58",
+   "direcci_n_correo_electr_nico": "sncahs@edatel.net.co",
+   "n_mero_nit": 890981561,
+   "n_mero_tel_fono": 5748358794,
+   "nombre_municipio": "San Carlos",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "E.S.E. HOSPITAL SAN VICENTE DE PAUL",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1229,10 +2349,20 @@
          19.34656536
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN VICENTE DE PAUL SAN CARLOS"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 56640448101,
+   "c_digo_municipio": 5664,
+   "c_digo_regi_n": 5,
+   "d_gito_verificaci_n_nit": 2,
+   "direcci_n": "CL 43A #  52A-109",
+   "direcci_n_correo_electr_nico": "snpehs01@edtel.net.co",
+   "n_mero_nit": 800014405,
+   "n_mero_tel_fono": 5748687610,
+   "nombre_municipio": "San Pedro de los Milagros",
+   "nombre_regi_n": "Norte",
+   "nombre_sede": "E.S.E. HOSPITAL SANTA ISABEL",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1240,10 +2370,20 @@
          19.34828595
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SANTA ISABEL"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 51450158501,
+   "c_digo_municipio": 5145,
+   "c_digo_regi_n": 8,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "KR 21 BOLIVAR # 16-33",
+   "direcci_n_correo_electr_nico": "caramhs1@edatel.net.co",
+   "n_mero_nit": 890981163,
+   "n_mero_tel_fono": 5748553524,
+   "nombre_municipio": "Caramanta",
+   "nombre_regi_n": "Suroeste",
+   "nombre_sede": "E.S.E. HOSPITAL SAN ANTONIO",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1251,10 +2391,20 @@
          19.31807232
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN ANTONIO"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 54400527301,
+   "c_digo_municipio": 5440,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 3,
+   "direcci_n": "KR 36 # 28-85",
+   "direcci_n_correo_electr_nico": "marih01@edatel.net.co",
+   "n_mero_nit": 890980752,
+   "n_mero_tel_fono": 5745484044,
+   "nombre_municipio": "Marinilla",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "E.S.E. SAN JUAN DE DIOS DE MARINILLA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1262,10 +2412,20 @@
          19.30366446
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. SAN JUAN DE DIOS DE MARINILLA"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 51900559201,
+   "c_digo_municipio": 5190,
+   "c_digo_regi_n": 4,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "CL 18 # 17-105",
+   "direcci_n_correo_electr_nico": "cisnhs01@edatel.net.co",
+   "n_mero_nit": 890980444,
+   "n_mero_tel_fono": 5748631847,
+   "nombre_municipio": "Cisneros",
+   "nombre_regi_n": "Nordeste",
+   "nombre_sede": "E.S.E HOSPITAL SAN ANTONIO",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1273,10 +2433,20 @@
          19.30041156
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN ANTONIO"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 53060447701,
+   "c_digo_municipio": 5306,
+   "c_digo_regi_n": 6,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "Cra 10 No 11-05",
+   "direcci_n_correo_electr_nico": "girahs01@edatel.net.co",
+   "n_mero_nit": 800193392,
+   "n_mero_tel_fono": 5748571325,
+   "nombre_municipio": "Giraldo",
+   "nombre_regi_n": "Occidente",
+   "nombre_sede": "E.S.E. HOSPITAL SAN ISIDRO",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1284,10 +2454,20 @@
          19.28957558
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN ISIDRO"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 50210509801,
+   "c_digo_municipio": 5021,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 5,
+   "direcci_n": "KR 19 # 16-70",
+   "direcci_n_correo_electr_nico": "alejhs01@edatel.net.co",
+   "n_mero_nit": 800029509,
+   "n_mero_tel_fono": 5748660077,
+   "nombre_municipio": "Alejandría",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "ESE HOSPITAL PBRO LUIS FELIPE ARBELAEZ",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1295,10 +2475,20 @@
          19.28949204
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "ESE HOSPITAL PBRO LUIS FELIPE ARBELAEZ"
 },
  {
-   "nombre_sector": "SANTIAGO",
+   "c_digo_habilitaci_n_prestador_salud": 54670396201,
+   "c_digo_municipio": 5467,
+   "c_digo_regi_n": 8,
+   "d_gito_verificaci_n_nit": 4,
+   "direcci_n": "CL 18 # 18-85",
+   "direcci_n_correo_electr_nico": "mtbehs01@edatel.net.co",
+   "n_mero_nit": 890981096,
+   "n_mero_tel_fono": 5748480559,
+   "nombre_municipio": "Montebello",
+   "nombre_regi_n": "Suroeste",
+   "nombre_sede": "E.S.E. HOSPITAL SAN ANTONIO DE MONTEBELLO",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1306,10 +2496,20 @@
          19.34063317
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN ANTONIO DE MONTEBELLO"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 56150137601,
+   "c_digo_municipio": 5615,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 7,
+   "direcci_n": "KR 48 # 56-59",
+   "direcci_n_correo_electr_nico": "eserionegro@epm.net.co",
+   "n_mero_nit": 890907254,
+   "n_mero_tel_fono": 5745313700,
+   "nombre_municipio": "Rionegro",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "E.S.E. HOSPITAL SAN JUAN DE DIOS",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1317,10 +2517,20 @@
          19.59151569
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN JUAN DE DIOS"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 54800491601,
+   "c_digo_municipio": 5480,
+   "c_digo_regi_n": 9,
+   "d_gito_verificaci_n_nit": 4,
+   "direcci_n": "KR 10 # 10-08",
+   "direcci_n_correo_electr_nico": "mutahs01@edatel.net.co",
+   "n_mero_nit": 890981268,
+   "n_mero_tel_fono": 5748578622,
+   "nombre_municipio": "Mutatá",
+   "nombre_regi_n": "Urabá",
+   "nombre_sede": "E.S.E. HOSPITAL LA ANUNCIACION",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1328,10 +2538,20 @@
          19.59172447
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL LA ANUNCIACION"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 52660491001,
+   "c_digo_municipio": 5266,
+   "c_digo_regi_n": 1,
+   "d_gito_verificaci_n_nit": 9,
+   "direcci_n": "DG 31 # 36 A SUR - 80 ",
+   "direcci_n_correo_electr_nico": "envihs01@edatel.net.co",
+   "n_mero_nit": 890906347,
+   "n_mero_tel_fono": 5742703511,
+   "nombre_municipio": "Envigado",
+   "nombre_regi_n": "Valle de Aburrá",
+   "nombre_sede": "ESE HOSPITAL MANUEL URIBE ANGEL",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1339,10 +2559,20 @@
          19.59092754
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL MANUEL URIBE ANGEL"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 56280510701,
+   "c_digo_municipio": 5628,
+   "c_digo_regi_n": 6,
+   "d_gito_verificaci_n_nit": 5,
+   "direcci_n": "KR 17 # 15-94",
+   "direcci_n_correo_electr_nico": "sabahs01@edatel.net.co",
+   "n_mero_nit": 890982140,
+   "n_mero_tel_fono": 5748554315,
+   "nombre_municipio": "Sabanalarga",
+   "nombre_regi_n": "Occidente",
+   "nombre_sede": "E.S.E. HOSPITAL SAN PEDRO",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1350,10 +2580,20 @@
          19.5932621
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN PEDRO"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 54250510501,
+   "c_digo_municipio": 5425,
+   "c_digo_regi_n": 3,
+   "d_gito_verificaci_n_nit": 8,
+   "direcci_n": "KR 30 # 33-237",
+   "direcci_n_correo_electr_nico": "macehs01@edatel.net.co",
+   "n_mero_nit": 890906966,
+   "n_mero_tel_fono": 5748640283,
+   "nombre_municipio": "Maceo",
+   "nombre_regi_n": "Magdalena Medio",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL  MARCO A. CARDONA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1361,10 +2601,20 @@
          19.59664179
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO MARCO A. CARDONA"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 52840217001,
+   "c_digo_municipio": 5284,
+   "c_digo_regi_n": 6,
+   "d_gito_verificaci_n_nit": 2,
+   "direcci_n": "KR 27 # 31 - 38",
+   "direcci_n_correo_electr_nico": "fronhs01@edatel.net.co",
+   "n_mero_nit": 890906991,
+   "n_mero_tel_fono": 5748595050,
+   "nombre_municipio": "Frontino",
+   "nombre_regi_n": "Occidente",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL MARIA ANTONIA TORO DE ELEJALDE",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1372,10 +2622,20 @@
          19.65098889
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL MARIA ANTONIA TORO DE ELEJALDE"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 56700581401,
+   "c_digo_municipio": 5670,
+   "c_digo_regi_n": 4,
+   "d_gito_verificaci_n_nit": 6,
+   "direcci_n": "CL 25 # 18-30",
+   "direcci_n_correo_electr_nico": "esehospitalsr@gmail.com",
+   "n_mero_nit": 890906211,
+   "n_mero_tel_fono": 5748656735,
+   "nombre_municipio": "San Roque",
+   "nombre_regi_n": "Nordeste",
+   "nombre_sede": "ESE HOSPITAL MUNICIPAL SAN ROQUE",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1383,10 +2643,20 @@
          19.65297021
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL MUNICIPAL SAN ROQUE"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 50300437401,
+   "c_digo_municipio": 5030,
+   "c_digo_regi_n": 8,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "KR 52 # 51-82",
+   "direcci_n_correo_electr_nico": "amaghs01@edatel.net.co",
+   "n_mero_nit": 890906346,
+   "n_mero_tel_fono": 5748472121,
+   "nombre_municipio": "Amaga",
+   "nombre_regi_n": "Suroeste",
+   "nombre_sede": "E.S.E. HOSPITAL SAN FERNANDO",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1394,10 +2664,20 @@
          19.65225473
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN FERNANDO"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 50550547901,
+   "c_digo_municipio": 5055,
+   "c_digo_regi_n": 7,
+   "d_gito_verificaci_n_nit": 9,
+   "direcci_n": "CL 31 # 32-14",
+   "direcci_n_correo_electr_nico": "argeh01@edatel.net.co",
+   "n_mero_nit": 890981851,
+   "n_mero_tel_fono": 5748650042,
+   "nombre_municipio": "Argelia",
+   "nombre_regi_n": "Oriente",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN JULIAN",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1405,10 +2685,20 @@
          19.65172711
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN JULIAN"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 50930237101,
+   "c_digo_municipio": 5093,
+   "c_digo_regi_n": 8,
+   "d_gito_verificaci_n_nit": 8,
+   "direcci_n": "KR 21 # 15-20",
+   "direcci_n_correo_electr_nico": "betuhs01@edalel.net.co",
+   "n_mero_nit": 890982116,
+   "n_mero_tel_fono": 5748436085,
+   "nombre_municipio": "Betulia",
+   "nombre_regi_n": "Suroeste",
+   "nombre_sede": "E.S.E. HOSPITAL GERMAN VELEZ GUTIERREZ",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1416,10 +2706,20 @@
          19.64865865
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL GERMAN VELEZ GUTIERREZ"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 53600433901,
+   "c_digo_municipio": 5360,
+   "c_digo_regi_n": 1,
+   "d_gito_verificaci_n_nit": 9,
+   "direcci_n": "KR 51A # 45-51",
+   "direcci_n_correo_electr_nico": "itaguihsr@epm.net.co",
+   "n_mero_nit": 890980066,
+   "n_mero_tel_fono": 5743788100,
+   "nombre_municipio": "Itagüí",
+   "nombre_regi_n": "Valle de Aburrá",
+   "nombre_sede": "E.S.E. HOSPITAL SAN RAFAEL DE ITAGUI",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1427,10 +2727,20 @@
          19.64728732
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL SAN RAFAEL DE ITAGUI"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 53800501601,
+   "c_digo_municipio": 5380,
+   "c_digo_regi_n": 1,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "CL 80 SUR #  59-73",
+   "direcci_n_correo_electr_nico": "estrhs01@edatel.net.co",
+   "n_mero_nit": 800138968,
+   "n_mero_tel_fono": 5743021010,
+   "nombre_municipio": "La estrella",
+   "nombre_regi_n": "Valle de Aburrá",
+   "nombre_sede": "EMPRESA SOCIAL DEL ESTADO HOSPITAL LA ESTRELLA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1438,10 +2748,20 @@
          19.68163921
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL LA ESTRELLA"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 51540220101,
+   "c_digo_municipio": 5154,
+   "c_digo_regi_n": 2,
+   "d_gito_verificaci_n_nit": 1,
+   "direcci_n": "CL 31 KR 18 EL PALMAR",
+   "direcci_n_correo_electr_nico": "cauchs01@edatel.net.co",
+   "n_mero_nit": 890980757,
+   "n_mero_tel_fono": 5748392161,
+   "nombre_municipio": "Caucasia",
+   "nombre_regi_n": "Bajo Cauca",
+   "nombre_sede": "HOSPITAL CESAR URIBE PIEDARHITA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1449,10 +2769,20 @@
          19.59004911
       ]
    },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E. HOSPITAL CESAR URIBE PIEDARHITA"
 },
  {
-   "nombre_sector": "MAO",
+   "c_digo_habilitaci_n_prestador_salud": 58610145201,
+   "c_digo_municipio": 5861,
+   "c_digo_regi_n": 8,
+   "d_gito_verificaci_n_nit": 0,
+   "direcci_n": "CL 52 # 50-82",
+   "direcci_n_correo_electr_nico": "venehs01@edatel.net.co",
+   "n_mero_nit": 890980367,
+   "n_mero_tel_fono": 5748490313,
+   "nombre_municipio": "Venecia",
+   "nombre_regi_n": "Suroeste",
+   "nombre_sede": "ESE HOSPITAL SAN RAFAEL DE VENECIA",
    "punto": {
       "type": "Point",
       "coordinates": [
@@ -1460,4054 +2790,6 @@
          19.59004185
       ]
    },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.05985563,
-         19.59151569
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.06054261,
-         19.59172447
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.0589239,
-         19.59092754
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.05870362,
-         19.5932621
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.05941676,
-         19.59664179
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.05856616,
-         19.65098889
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.05921794,
-         19.65297021
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.05998237,
-         19.65225473
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.06016777,
-         19.65172711
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.06148072,
-         19.64865865
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.06180593,
-         19.64728732
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.05401713,
-         19.68163921
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.05367549,
-         19.59004911
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.05172887,
-         19.59004185
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.05985563,
-         19.59151569
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.06054261,
-         19.59172447
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.0589239,
-         19.59092754
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.05870362,
-         19.5932621
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.05941676,
-         19.59664179
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.05856616,
-         19.65098889
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.05921794,
-         19.65297021
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.05998237,
-         19.65225473
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.06016777,
-         19.65172711
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.06148072,
-         19.64865865
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.06180593,
-         19.64728732
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.05401713,
-         19.68163921
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.49825471,
-         19.42950034
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.50194811,
-         19.43376496
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.50811786,
-         19.41927404
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.51463261,
-         19.4156402
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.51448576,
-         19.41462453
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.51018216,
-         19.4171014
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.48742227,
-         19.43101548
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.52362639,
-         19.42292392
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.52387986,
-         19.42255777
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.51839173,
-         19.41975024
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.52008688,
-         19.41367969
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.52030683,
-         19.41378024
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.52068938,
-         19.41393835
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.52122816,
-         19.41420903
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.52023742,
-         19.41256598
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.52128885,
-         19.41274274
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.52087042,
-         19.4135083
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.52074436,
-         19.41339857
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.52043088,
-         19.4132256
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.52008454,
-         19.41300615
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.52000508,
-         19.41343525
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.51961113,
-         19.4134811
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.4933865,
-         19.42310099
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.49329899,
-         19.42356106
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.48589576,
-         19.42963693
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.48351564,
-         19.43368781
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.48444334,
-         19.43476217
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.48549008,
-         19.43491994
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.48752587,
-         19.43290053
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.48959788,
-         19.43452504
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.4895211,
-         19.43505747
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.48944365,
-         19.43542012
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.48900176,
-         19.43758967
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.4870937,
-         19.44587967
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.4973213,
-         19.43203326
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.49742155,
-         19.4321806
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.49559329,
-         19.43308455
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.49269784,
-         19.42916013
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.49246985,
-         19.42901595
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.49569756,
-         19.43574546
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.49541157,
-         19.43661176
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.49129471,
-         19.43671705
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69939155,
-         19.48984333
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69942307,
-         19.48999567
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6983361,
-         19.48956962
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69999505,
-         19.48950419
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6908514,
-         19.48607263
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69545608,
-         19.48482129
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69571391,
-         19.4853504
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69540411,
-         19.49008954
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69518652,
-         19.48971595
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69732323,
-         19.48824498
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69737822,
-         19.48851964
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6968401,
-         19.48834549
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69734838,
-         19.49319327
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6992209,
-         19.49214332
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.70043191,
-         19.49225141
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.70205633,
-         19.49232884
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.70335083,
-         19.48867894
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.70252504,
-         19.48927441
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.70290457,
-         19.48929432
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.70127849,
-         19.48984617
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.70308428,
-         19.49068975
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.70081212,
-         19.48937934
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.70015229,
-         19.49004593
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.70276007,
-         19.49103805
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.70228297,
-         19.49474131
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.70188366,
-         19.4947135
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69938015,
-         19.49493695
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69879878,
-         19.49423626
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69568943,
-         19.49584592
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6949297,
-         19.49528967
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.33444913,
-         19.47968847
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.34191439,
-         19.48377729
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.32922251,
-         19.47140336
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.22506227,
-         19.49991854
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.22808043,
-         19.49918183
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.22050621,
-         19.5021558
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.3441091,
-         19.48287078
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66825848,
-         19.78305805
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66483833,
-         19.78345115
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66423047,
-         19.78392438
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66541031,
-         19.78384898
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66546898,
-         19.78316532
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66545758,
-         19.78337448
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66472769,
-         19.78323346
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66816326,
-         19.77631844
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66908158,
-         19.77609254
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6691768,
-         19.77543756
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.67023627,
-         19.77443426
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.67097791,
-         19.77312774
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66967268,
-         19.77450398
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66901185,
-         19.77514477
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6676808,
-         19.77548646
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.67150429,
-         19.77184141
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.67055009,
-         19.77043107
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6706956,
-         19.77156092
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.67067716,
-         19.77230395
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.67077238,
-         19.7724251
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66886935,
-         19.77330064
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66855319,
-         19.77300722
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6695094,
-         19.77383858
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66847574,
-         19.77357545
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66784006,
-         19.7732205
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66790946,
-         19.7717985
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66760436,
-         19.7710031
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66682886,
-         19.77171836
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66608053,
-         19.77249231
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66755474,
-         19.77284094
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6672949,
-         19.77387045
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66711318,
-         19.77428944
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66614926,
-         19.77371206
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.67079753,
-         19.77424653
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6721108,
-         19.77364959
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.67146976,
-         19.77425915
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.67183856,
-         19.77413074
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.67132827,
-         19.77057242
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66860281,
-         19.77775081
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.67086022,
-         19.77599411
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.67061413,
-         19.77565305
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.67112878,
-         19.77786282
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.67408122,
-         19.77115864
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.67406613,
-         19.77048597
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.67566037,
-         19.76468547
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.67542635,
-         19.76439298
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.67958914,
-         19.75556496
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66238713,
-         19.77259138
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66333629,
-         19.77120534
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66329807,
-         19.77144986
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66644028,
-         19.77072387
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66775825,
-         19.76919268
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66770058,
-         19.76841272
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66502508,
-         19.77393702
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66426333,
-         19.7756805
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66385463,
-         19.77543504
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66203307,
-         19.7746854
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66248771,
-         19.77302299
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.65989804,
-         19.77448379
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.65793734,
-         19.77292519
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66111308,
-         19.77286745
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66230331,
-         19.77100562
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66267278,
-         19.77013543
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66212494,
-         19.7706046
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6600992,
-         19.77113593
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66019509,
-         19.76912042
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.65973576,
-         19.77134385
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6600526,
-         19.77236957
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.68890445,
-         19.79683767
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69178782,
-         19.79793516
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.68827547,
-         19.79515026
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.68681031,
-         19.79066871
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69150988,
-         19.79705124
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69302298,
-         19.78896294
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69264546,
-         19.78872128
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69348499,
-         19.78922194
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69633417,
-         19.78998382
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69510337,
-         19.79276912
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69525357,
-         19.7934663
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.67844752,
-         19.77444782
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69903784,
-         19.78961629
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69859561,
-         19.79383855
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.68633489,
-         19.78717386
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.68625409,
-         19.78689245
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.68841998,
-         19.78729342
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.68438292,
-         19.79235648
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.68588194,
-         19.79099302
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6833962,
-         19.79197193
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.68982512,
-         19.79856544
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69000248,
-         19.79831371
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6866229,
-         19.79605753
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.70424166,
-         19.79370764
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.70801955,
-         19.79703641
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.70451491,
-         19.79519127
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.7070962,
-         19.79624113
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.70747774,
-         19.79521998
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.70741236,
-         19.79358523
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.7098629,
-         19.79606637
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.71015928,
-         19.79492534
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.7106005,
-         19.79715881
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.71012542,
-         19.79797648
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.70221156,
-         19.79539065
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.70246469,
-         19.79423289
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.70517708,
-         19.79722979
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SAN FCO.",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.707322,
-         19.7950859
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5140748,
-         19.7642512
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.516457,
-         19.7627938
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5143757,
-         19.7667084
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.9908484,
-         19.5746332
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5805643,
-         19.7471857
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5097351,
-         19.768675
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5112962,
-         19.768209
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5809391,
-         19.7486022
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5809942,
-         19.7484311
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.8329456,
-         19.7519202
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5958852,
-         19.7359705
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5086248,
-         19.7584871
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5085758,
-         19.7586193
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.8315735,
-         19.751
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SAN FCO.",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.40891454,
-         19.38887879
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6187782,
-         19.4054652
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6180371,
-         19.4054255
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5956468,
-         19.386809
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5925939,
-         19.7542671
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5950428,
-         19.7479319
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5933471,
-         19.7483405
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.7433172,
-         18.9022831
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5990608,
-         19.3863416
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6045895,
-         19.3825822
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5119934,
-         19.775671
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5097577,
-         19.7723376
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5096239,
-         19.7684654
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5088762,
-         19.7718299
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6045913,
-         19.7282941
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5102619,
-         19.7731158
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.507297,
-         19.7741491
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.640011,
-         19.4232369
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6173967,
-         19.4002116
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5575157,
-         19.74919
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5566866,
-         19.7490367
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5562003,
-         19.7476027
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6183762,
-         19.3946569
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6427219,
-         19.4247629
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6188202,
-         19.3986428
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6262894,
-         19.72472
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6147335,
-         19.7179581
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6154155,
-         19.7162871
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6230046,
-         19.712707
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SAN FCO.",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.25676428,
-         19.3056599
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5985742,
-         19.4183365
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5198792,
-         19.7525043
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6220933,
-         19.4297151
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.637261,
-         19.4725709
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5954804,
-         19.418698
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6407463,
-         19.4717286
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "MAO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.6432368,
-         19.841641
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.4927634,
-         19.7552555
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.4920861,
-         19.7555481
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.4921257,
-         19.7534896
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5043924,
-         19.766024
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SAN FCO.",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.3695701,
-         19.3665779
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.596011,
-         19.7399026
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5212378,
-         19.7538346
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.520107,
-         19.7530897
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5211542,
-         19.7531399
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5202491,
-         19.7531755
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SAN FCO.",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.3699107,
-         19.3678696
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5224975,
-         19.7536453
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6142895,
-         19.487294
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6192136,
-         19.4898876
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5239532,
-         19.7526118
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5234755,
-         19.7526422
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5239547,
-         19.7526116
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.522724,
-         19.7408538
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6151875,
-         19.4830263
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5229498,
-         19.7410928
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.37216287,
-         19.64893161
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "LA VEGA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5499748,
-         19.3712831
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.8515133,
-         19.7100886
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.8398277,
-         19.7001025
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.8247034,
-         19.7544167
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5357402,
-         19.7489465
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5211461,
-         19.7431102
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5206541,
-         19.7429327
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.8391237,
-         19.7037052
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SAN FCO.",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.2445982,
-         19.2784193
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.8254063,
-         19.7543959
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6058502,
-         19.7298084
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.8403973,
-         19.7064035
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5290869,
-         19.7474162
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5229112,
-         19.7449457
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5208584,
-         19.7426977
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.521655,
-         19.742942
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5585901,
-         19.7442676
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.613683,
-         19.4426954
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5291896,
-         19.7210703
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.53015,
-         19.7195706
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6136856,
-         19.4426904
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.530339,
-         19.7192388
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5309599,
-         19.7242767
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.8362454,
-         19.7435843
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.0596746,
-         19.8140992
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.8388472,
-         19.6854515
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.0326794,
-         19.7652009
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.7887761,
-         19.6634641
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6267371,
-         19.6916868
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.8341805,
-         19.6764204
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.0302184,
-         19.7548332
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.7886622,
-         19.6637761
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.7884215,
-         19.6646947
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.1732758,
-         19.8248392
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5221559,
-         19.7226432
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5919432,
-         19.7364558
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.0954392,
-         19.8472397
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.0604468,
-         19.8360205
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -71.0970071,
-         19.8472722
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.792357,
-         19.4483747
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.7417806,
-         18.9133007
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.7415509,
-         18.912262
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.7418529,
-         18.9122862
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.7419917,
-         18.91215
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6667362,
-         19.7826016
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66366319,
-         19.77918065
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66472668,
-         19.77767951
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66551592,
-         19.7815478
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66745348,
-         19.78117205
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66736128,
-         19.78122316
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66328868,
-         19.78253812
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66527352,
-         19.78213146
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66832151,
-         19.78149133
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6662076,
-         19.78306341
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "PUERTO PLATA",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.66679869,
-         19.78263403
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5783945,
-         19.4949809
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5506208,
-         19.5129011
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5511369,
-         19.5075294
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6487051,
-         19.4727119
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5957216,
-         19.4187805
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5981973,
-         19.4183212
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6101617,
-         19.4166839
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6129693,
-         19.4131087
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.5919811,
-         19.409352
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69879878,
-         19.49423626
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.69568943,
-         19.49584592
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.6949297,
-         19.49528967
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SAN FCO.",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.35507873,
-         19.38806153
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SAN FCO.",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.350754,
-         19.37595073
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SAN FCO.",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.35490237,
-         19.37099539
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SAN FCO.",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.34935892,
-         19.37022806
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SAN FCO.",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.35348482,
-         19.37176241
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SAN FCO.",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.35476591,
-         19.38059059
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SAN FCO.",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.35498116,
-         19.37994001
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SAN FCO.",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.3551944,
-         19.37967149
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SAN FCO.",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.35476089,
-         19.37965441
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SAN FCO.",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.35520613,
-         19.38117697
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SAN FCO.",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.35778306,
-         19.36988993
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SAN FCO.",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.35062157,
-         19.37726964
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SAN FCO.",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.3544702,
-         19.37332079
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SAN FCO.",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.35778306,
-         19.36988993
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SAN FCO.",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.35062157,
-         19.37726964
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SAN FCO.",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.3544702,
-         19.37332079
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.70332702,
-         19.49391072
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.792357,
-         19.4483747
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
-},
- {
-   "nombre_sector": "SANTIAGO",
-   "punto": {
-      "type": "Point",
-      "coordinates": [
-         -70.7008464,
-         19.4020242
-      ]
-   },
-   "ESTADO_LAM": "Encendida"
+   "raz_n_social_organizaci_n": "E.S.E.  HOSPITAL SAN RAFAEL DE VENECIA"
 }
 ]
