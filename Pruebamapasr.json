@@ -1,0 +1,5513 @@
+[
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.9887201,
+         19.59498891
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.99068984,
+         19.59785025
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.99115387,
+         19.59763326
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.9891583,
+         19.59605272
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.98409966,
+         19.59464905
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.98167293,
+         19.59559252
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.98200519,
+         19.59516895
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.98217953,
+         19.59558178
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.98199446,
+         19.60393095
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.98199781,
+         19.60440282
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.98221306,
+         19.59391657
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.98267507,
+         19.59383823
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.98357696,
+         19.59373337
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.41865814,
+         19.36185196
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.41823335,
+         19.36055411
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.41788835,
+         19.3597959
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.402526,
+         19.35889534
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.4220441,
+         19.35643657
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.42318001,
+         19.3454746
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.41971762,
+         19.3838128
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.37362386,
+         19.37264234
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.37397522,
+         19.37154069
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.36698874,
+         19.35630276
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.36496837,
+         19.35168214
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.37086353,
+         19.35789324
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.42499386,
+         19.3671748
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.41141786,
+         19.37289632
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.41294403,
+         19.37232446
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.42349517,
+         19.36643718
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.40621337,
+         19.3597105
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.40042784,
+         19.35759242
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.40518172,
+         19.36743892
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.40649734,
+         19.36793014
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.40601589,
+         19.36769386
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.41497279,
+         19.35150057
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.42031139,
+         19.36962329
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.41593604,
+         19.37914456
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.4159062,
+         19.38212453
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.41286491,
+         19.37933022
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.4245875,
+         19.37717729
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.42758152,
+         19.37321862
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.4236903,
+         19.38790688
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.4326814,
+         19.37016163
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.44393294,
+         19.3794735
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.37861008,
+         19.34361258
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.37891954,
+         19.34350123
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.37965178,
+         19.34348383
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.38344476,
+         19.34365339
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.38680289,
+         19.37093277
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.35645872,
+         19.37032927
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.35778306,
+         19.36988993
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.35062157,
+         19.37726964
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.35520613,
+         19.38117697
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.35476089,
+         19.37965441
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.3551944,
+         19.37967149
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.35498116,
+         19.37994001
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.35476591,
+         19.38059059
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.35507873,
+         19.38806153
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.35348482,
+         19.37176241
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.34935892,
+         19.37022806
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.3544702,
+         19.37332079
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.35490237,
+         19.37099539
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.350754,
+         19.37595073
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.87315612,
+         19.31075069
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.86859636,
+         19.29796298
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.86654916,
+         19.30481878
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.91532078,
+         19.30428307
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.92385456,
+         19.29506534
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.9399562,
+         19.31149615
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.92069056,
+         19.33210718
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.92037741,
+         19.33231155
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.9310355,
+         19.34043925
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.92847399,
+         19.34231301
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.93064256,
+         19.34160343
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.93206916,
+         19.34229909
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.93461893,
+         19.33838894
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.93492471,
+         19.33772584
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.9330599,
+         19.33971195
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.93395207,
+         19.34027031
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.93391921,
+         19.34372394
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.93638986,
+         19.33808207
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.93632549,
+         19.33856293
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.93556274,
+         19.33962558
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.94357181,
+         19.34445723
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.94332136,
+         19.344536
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.93925245,
+         19.33639965
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.94027001,
+         19.33676252
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.94074141,
+         19.33557647
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.93891047,
+         19.33617725
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.93867611,
+         19.33605735
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.93666445,
+         19.33808396
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.93706377,
+         19.33793464
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.93745906,
+         19.33787042
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.9379784,
+         19.33781031
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.93817655,
+         19.33764454
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.93836866,
+         19.3377733
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.93914382,
+         19.3377037
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.93939058,
+         19.33769389
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.93979627,
+         19.3376806
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.94028678,
+         19.33747624
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.9406016,
+         19.33744871
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.93830965,
+         19.34108841
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.9390134,
+         19.34128835
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.94073806,
+         19.34276666
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.94018083,
+         19.33787801
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.94770979,
+         19.34319563
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.94351448,
+         19.34083501
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.94250329,
+         19.34138989
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.94272792,
+         19.34230669
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.95093984,
+         19.34137344
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.94580241,
+         19.34622339
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.94593015,
+         19.34656536
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.94544802,
+         19.34828595
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.97668838,
+         19.31807232
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.98289903,
+         19.30366446
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.98718151,
+         19.30041156
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.98501798,
+         19.28957558
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.98015245,
+         19.28949204
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.95063474,
+         19.34063317
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05985563,
+         19.59151569
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.06054261,
+         19.59172447
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.0589239,
+         19.59092754
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05870362,
+         19.5932621
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05941676,
+         19.59664179
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05856616,
+         19.65098889
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05921794,
+         19.65297021
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05998237,
+         19.65225473
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.06016777,
+         19.65172711
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.06148072,
+         19.64865865
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.06180593,
+         19.64728732
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05401713,
+         19.68163921
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05367549,
+         19.59004911
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05172887,
+         19.59004185
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05985563,
+         19.59151569
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.06054261,
+         19.59172447
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.0589239,
+         19.59092754
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05870362,
+         19.5932621
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05941676,
+         19.59664179
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05856616,
+         19.65098889
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05921794,
+         19.65297021
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05998237,
+         19.65225473
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.06016777,
+         19.65172711
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.06148072,
+         19.64865865
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.06180593,
+         19.64728732
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05401713,
+         19.68163921
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05367549,
+         19.59004911
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05172887,
+         19.59004185
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05985563,
+         19.59151569
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.06054261,
+         19.59172447
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.0589239,
+         19.59092754
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05870362,
+         19.5932621
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05941676,
+         19.59664179
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05856616,
+         19.65098889
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05921794,
+         19.65297021
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05998237,
+         19.65225473
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.06016777,
+         19.65172711
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.06148072,
+         19.64865865
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.06180593,
+         19.64728732
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.05401713,
+         19.68163921
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.49825471,
+         19.42950034
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.50194811,
+         19.43376496
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.50811786,
+         19.41927404
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.51463261,
+         19.4156402
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.51448576,
+         19.41462453
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.51018216,
+         19.4171014
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.48742227,
+         19.43101548
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.52362639,
+         19.42292392
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.52387986,
+         19.42255777
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.51839173,
+         19.41975024
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.52008688,
+         19.41367969
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.52030683,
+         19.41378024
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.52068938,
+         19.41393835
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.52122816,
+         19.41420903
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.52023742,
+         19.41256598
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.52128885,
+         19.41274274
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.52087042,
+         19.4135083
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.52074436,
+         19.41339857
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.52043088,
+         19.4132256
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.52008454,
+         19.41300615
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.52000508,
+         19.41343525
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.51961113,
+         19.4134811
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.4933865,
+         19.42310099
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.49329899,
+         19.42356106
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.48589576,
+         19.42963693
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.48351564,
+         19.43368781
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.48444334,
+         19.43476217
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.48549008,
+         19.43491994
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.48752587,
+         19.43290053
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.48959788,
+         19.43452504
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.4895211,
+         19.43505747
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.48944365,
+         19.43542012
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.48900176,
+         19.43758967
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.4870937,
+         19.44587967
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.4973213,
+         19.43203326
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.49742155,
+         19.4321806
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.49559329,
+         19.43308455
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.49269784,
+         19.42916013
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.49246985,
+         19.42901595
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.49569756,
+         19.43574546
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.49541157,
+         19.43661176
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.49129471,
+         19.43671705
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69939155,
+         19.48984333
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69942307,
+         19.48999567
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6983361,
+         19.48956962
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69999505,
+         19.48950419
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6908514,
+         19.48607263
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69545608,
+         19.48482129
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69571391,
+         19.4853504
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69540411,
+         19.49008954
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69518652,
+         19.48971595
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69732323,
+         19.48824498
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69737822,
+         19.48851964
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6968401,
+         19.48834549
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69734838,
+         19.49319327
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6992209,
+         19.49214332
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.70043191,
+         19.49225141
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.70205633,
+         19.49232884
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.70335083,
+         19.48867894
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.70252504,
+         19.48927441
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.70290457,
+         19.48929432
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.70127849,
+         19.48984617
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.70308428,
+         19.49068975
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.70081212,
+         19.48937934
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.70015229,
+         19.49004593
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.70276007,
+         19.49103805
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.70228297,
+         19.49474131
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.70188366,
+         19.4947135
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69938015,
+         19.49493695
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69879878,
+         19.49423626
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69568943,
+         19.49584592
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6949297,
+         19.49528967
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.33444913,
+         19.47968847
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.34191439,
+         19.48377729
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.32922251,
+         19.47140336
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.22506227,
+         19.49991854
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.22808043,
+         19.49918183
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.22050621,
+         19.5021558
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.3441091,
+         19.48287078
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66825848,
+         19.78305805
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66483833,
+         19.78345115
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66423047,
+         19.78392438
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66541031,
+         19.78384898
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66546898,
+         19.78316532
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66545758,
+         19.78337448
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66472769,
+         19.78323346
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66816326,
+         19.77631844
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66908158,
+         19.77609254
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6691768,
+         19.77543756
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.67023627,
+         19.77443426
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.67097791,
+         19.77312774
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66967268,
+         19.77450398
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66901185,
+         19.77514477
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6676808,
+         19.77548646
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.67150429,
+         19.77184141
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.67055009,
+         19.77043107
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6706956,
+         19.77156092
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.67067716,
+         19.77230395
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.67077238,
+         19.7724251
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66886935,
+         19.77330064
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66855319,
+         19.77300722
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6695094,
+         19.77383858
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66847574,
+         19.77357545
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66784006,
+         19.7732205
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66790946,
+         19.7717985
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66760436,
+         19.7710031
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66682886,
+         19.77171836
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66608053,
+         19.77249231
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66755474,
+         19.77284094
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6672949,
+         19.77387045
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66711318,
+         19.77428944
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66614926,
+         19.77371206
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.67079753,
+         19.77424653
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6721108,
+         19.77364959
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.67146976,
+         19.77425915
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.67183856,
+         19.77413074
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.67132827,
+         19.77057242
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66860281,
+         19.77775081
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.67086022,
+         19.77599411
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.67061413,
+         19.77565305
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.67112878,
+         19.77786282
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.67408122,
+         19.77115864
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.67406613,
+         19.77048597
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.67566037,
+         19.76468547
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.67542635,
+         19.76439298
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.67958914,
+         19.75556496
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66238713,
+         19.77259138
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66333629,
+         19.77120534
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66329807,
+         19.77144986
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66644028,
+         19.77072387
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66775825,
+         19.76919268
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66770058,
+         19.76841272
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66502508,
+         19.77393702
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66426333,
+         19.7756805
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66385463,
+         19.77543504
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66203307,
+         19.7746854
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66248771,
+         19.77302299
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.65989804,
+         19.77448379
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.65793734,
+         19.77292519
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66111308,
+         19.77286745
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66230331,
+         19.77100562
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66267278,
+         19.77013543
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66212494,
+         19.7706046
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6600992,
+         19.77113593
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66019509,
+         19.76912042
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.65973576,
+         19.77134385
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6600526,
+         19.77236957
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.68890445,
+         19.79683767
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69178782,
+         19.79793516
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.68827547,
+         19.79515026
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.68681031,
+         19.79066871
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69150988,
+         19.79705124
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69302298,
+         19.78896294
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69264546,
+         19.78872128
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69348499,
+         19.78922194
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69633417,
+         19.78998382
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69510337,
+         19.79276912
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69525357,
+         19.7934663
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.67844752,
+         19.77444782
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69903784,
+         19.78961629
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69859561,
+         19.79383855
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.68633489,
+         19.78717386
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.68625409,
+         19.78689245
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.68841998,
+         19.78729342
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.68438292,
+         19.79235648
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.68588194,
+         19.79099302
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6833962,
+         19.79197193
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.68982512,
+         19.79856544
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69000248,
+         19.79831371
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6866229,
+         19.79605753
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.70424166,
+         19.79370764
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.70801955,
+         19.79703641
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.70451491,
+         19.79519127
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.7070962,
+         19.79624113
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.70747774,
+         19.79521998
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.70741236,
+         19.79358523
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.7098629,
+         19.79606637
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.71015928,
+         19.79492534
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.7106005,
+         19.79715881
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.71012542,
+         19.79797648
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.70221156,
+         19.79539065
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.70246469,
+         19.79423289
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.70517708,
+         19.79722979
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.707322,
+         19.7950859
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5140748,
+         19.7642512
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.516457,
+         19.7627938
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5143757,
+         19.7667084
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.9908484,
+         19.5746332
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5805643,
+         19.7471857
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5097351,
+         19.768675
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5112962,
+         19.768209
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5809391,
+         19.7486022
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5809942,
+         19.7484311
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.8329456,
+         19.7519202
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5958852,
+         19.7359705
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5086248,
+         19.7584871
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5085758,
+         19.7586193
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.8315735,
+         19.751
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.40891454,
+         19.38887879
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6187782,
+         19.4054652
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6180371,
+         19.4054255
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5956468,
+         19.386809
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5925939,
+         19.7542671
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5950428,
+         19.7479319
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5933471,
+         19.7483405
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.7433172,
+         18.9022831
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5990608,
+         19.3863416
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6045895,
+         19.3825822
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5119934,
+         19.775671
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5097577,
+         19.7723376
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5096239,
+         19.7684654
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5088762,
+         19.7718299
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6045913,
+         19.7282941
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5102619,
+         19.7731158
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.507297,
+         19.7741491
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.640011,
+         19.4232369
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6173967,
+         19.4002116
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5575157,
+         19.74919
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5566866,
+         19.7490367
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5562003,
+         19.7476027
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6183762,
+         19.3946569
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6427219,
+         19.4247629
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6188202,
+         19.3986428
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6262894,
+         19.72472
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6147335,
+         19.7179581
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6154155,
+         19.7162871
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6230046,
+         19.712707
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.25676428,
+         19.3056599
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5985742,
+         19.4183365
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5198792,
+         19.7525043
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6220933,
+         19.4297151
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.637261,
+         19.4725709
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5954804,
+         19.418698
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6407463,
+         19.4717286
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "MAO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.6432368,
+         19.841641
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.4927634,
+         19.7552555
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.4920861,
+         19.7555481
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.4921257,
+         19.7534896
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5043924,
+         19.766024
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.3695701,
+         19.3665779
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.596011,
+         19.7399026
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5212378,
+         19.7538346
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.520107,
+         19.7530897
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5211542,
+         19.7531399
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5202491,
+         19.7531755
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.3699107,
+         19.3678696
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5224975,
+         19.7536453
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6142895,
+         19.487294
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6192136,
+         19.4898876
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5239532,
+         19.7526118
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5234755,
+         19.7526422
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5239547,
+         19.7526116
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.522724,
+         19.7408538
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6151875,
+         19.4830263
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5229498,
+         19.7410928
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.37216287,
+         19.64893161
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "LA VEGA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5499748,
+         19.3712831
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.8515133,
+         19.7100886
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.8398277,
+         19.7001025
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.8247034,
+         19.7544167
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5357402,
+         19.7489465
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5211461,
+         19.7431102
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5206541,
+         19.7429327
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.8391237,
+         19.7037052
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.2445982,
+         19.2784193
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.8254063,
+         19.7543959
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6058502,
+         19.7298084
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.8403973,
+         19.7064035
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5290869,
+         19.7474162
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5229112,
+         19.7449457
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5208584,
+         19.7426977
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.521655,
+         19.742942
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5585901,
+         19.7442676
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.613683,
+         19.4426954
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5291896,
+         19.7210703
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.53015,
+         19.7195706
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6136856,
+         19.4426904
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.530339,
+         19.7192388
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5309599,
+         19.7242767
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.8362454,
+         19.7435843
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.0596746,
+         19.8140992
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.8388472,
+         19.6854515
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.0326794,
+         19.7652009
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.7887761,
+         19.6634641
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6267371,
+         19.6916868
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.8341805,
+         19.6764204
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.0302184,
+         19.7548332
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.7886622,
+         19.6637761
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.7884215,
+         19.6646947
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.1732758,
+         19.8248392
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5221559,
+         19.7226432
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5919432,
+         19.7364558
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.0954392,
+         19.8472397
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.0604468,
+         19.8360205
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -71.0970071,
+         19.8472722
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.792357,
+         19.4483747
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.7417806,
+         18.9133007
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.7415509,
+         18.912262
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.7418529,
+         18.9122862
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.7419917,
+         18.91215
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6667362,
+         19.7826016
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66366319,
+         19.77918065
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66472668,
+         19.77767951
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66551592,
+         19.7815478
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66745348,
+         19.78117205
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66736128,
+         19.78122316
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66328868,
+         19.78253812
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66527352,
+         19.78213146
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66832151,
+         19.78149133
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6662076,
+         19.78306341
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "PUERTO PLATA",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.66679869,
+         19.78263403
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5783945,
+         19.4949809
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5506208,
+         19.5129011
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5511369,
+         19.5075294
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6487051,
+         19.4727119
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5957216,
+         19.4187805
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5981973,
+         19.4183212
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6101617,
+         19.4166839
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6129693,
+         19.4131087
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.5919811,
+         19.409352
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69879878,
+         19.49423626
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.69568943,
+         19.49584592
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.6949297,
+         19.49528967
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.35507873,
+         19.38806153
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.350754,
+         19.37595073
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.35490237,
+         19.37099539
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.34935892,
+         19.37022806
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.35348482,
+         19.37176241
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.35476591,
+         19.38059059
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.35498116,
+         19.37994001
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.3551944,
+         19.37967149
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.35476089,
+         19.37965441
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.35520613,
+         19.38117697
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.35778306,
+         19.36988993
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.35062157,
+         19.37726964
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.3544702,
+         19.37332079
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.35778306,
+         19.36988993
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.35062157,
+         19.37726964
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SAN FCO.",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.3544702,
+         19.37332079
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.70332702,
+         19.49391072
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.792357,
+         19.4483747
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+},
+ {
+   "nombre_sector": "SANTIAGO",
+   "punto": {
+      "type": "Point",
+      "coordinates": [
+         -70.7008464,
+         19.4020242
+      ]
+   },
+   "ESTADO_LAM": "Encendida"
+}
+]
